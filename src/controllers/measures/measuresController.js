@@ -1,4 +1,4 @@
-
+import urad from './store/avg_day';
 
 export default class MeasureController {
   constructor({ repositories, logger, autoMapper }) {
@@ -16,6 +16,15 @@ export default class MeasureController {
     }
   }
 
+  // eslint-disable-next-line class-methods-use-this
+  async getUrad(req, res, next) {
+    try {
+      const measures = urad;
+      res.json({ measures });
+    } catch (error) {
+      next(error);
+    }
+  }
 }
 
 // function getQueryOptions(req) {

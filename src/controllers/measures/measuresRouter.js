@@ -17,5 +17,8 @@ const controller = new MeasuresController({
 router.route('/last-year')
   .get((req, res, next) => controller.getLastYear(req, res, next));
 
+router.route('/urad')
+  .get((req, res, next) => controller.getUrad(req, res, next));
+
 
 export default router;

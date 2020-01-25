@@ -44,6 +44,30 @@ paths:
                   $ref: '#/components/schemas/Measure'
         '401':
           $ref: '#/components/responses/UnauthorizedError'
+  /measures/urad:
+    get:
+      security:
+      - bearerAuth: []
+      tags:
+        - measure
+      summary: Get all the measures
+      operationId: getUrad
+      responses:
+        '200':
+          description: successful operation
+          content:
+            application/xml:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Measure'
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Measure'
+        '401':
+          $ref: '#/components/responses/UnauthorizedError'
   # /user:
   #   get:
   #     security:

@@ -11,7 +11,6 @@ class Api {
   getLastYear() {
     return this.inner.getLastYear();
   }
-
 }
 
 // const inner = configuration.get('useMock') ? MockApi : RealApi;
