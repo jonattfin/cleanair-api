@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39f6a5ec-445e-418f-b853-10fc719c5e78" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/logs/access.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/access.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/combined.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/combined.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/serviceFactory.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/serviceFactory.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/measures/measuresController.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/measures/measuresController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/measures/store/avg_day/82000002.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/measures/store/avg_day/82000002.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/measures/store/avg_day/82000004.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/measures/store/avg_day/82000004.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/measures/store/avg_day/82000005.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/measures/store/avg_day/82000005.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/measures/store/avg_day/82000007.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/measures/store/avg_day/82000007.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/measures/store/avg_day/82000008.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/measures/store/avg_day/82000008.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/measures/store/avg_day/8200000A.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/measures/store/avg_day/8200000A.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/measures/store/avg_day/82000141.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/measures/store/avg_day/82000141.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/measures/store/avg_day/8200019C.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/measures/store/avg_day/8200019C.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/measures/store/avg_day/820001CF.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/measures/store/avg_day/820001CF.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/measures/store/raw/82000002.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/measures/store/raw/82000002.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/measures/store/raw/82000004.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/measures/store/raw/82000004.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/measures/store/raw/82000005.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/measures/store/raw/82000005.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/measures/store/raw/82000007.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/measures/store/raw/82000007.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/measures/store/raw/82000008.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/measures/store/raw/82000008.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/measures/store/raw/8200000A.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/measures/store/raw/8200000A.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/measures/store/raw/82000141.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/measures/store/raw/82000141.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/measures/store/raw/8200019C.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/measures/store/raw/8200019C.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/measures/store/raw/820001CF.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/measures/store/raw/820001CF.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/measures/store/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/measures/store/readme.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WwVWTGHW68xL70iqcIP9HhfoVG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39f6a5ec-445e-418f-b853-10fc719c5e78" name="Default Changelist" comment="" />
+      <created>1580060676254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580060676254</updated>
+      <workItem from="1580060679242" duration="1946000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1000" y="483" key="Vcs.Push.Dialog.v2" timestamp="1580060914195">
+      <screen x="0" y="0" width="3200" height="1755" />
+    </state>
+    <state x="1000" y="483" key="Vcs.Push.Dialog.v2/0.0.3200.1755@0.0.3200.1755" timestamp="1580060914195" />
+  </component>
+</project>

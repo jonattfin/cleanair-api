@@ -1,11 +1,12 @@
 import axios from 'axios';
 
-const setConfig = (config = {}) => {
+const setConfig = (config = {}, extraHeaders = {}) => {
   const enhancedConfig = config;
 
   const cfg = {
     headers: {
       'Content-Type': 'application/json',
+      ...extraHeaders,
     },
     ...enhancedConfig,
   };
@@ -15,14 +16,15 @@ const setConfig = (config = {}) => {
 };
 
 class RestHelper {
-  constructor(instance, extraConfig = {}) {
+  constructor(instance, extraConfig = {}, extraHeaders = {}) {
     this.instance = instance;
     this.extraConfig = extraConfig;
+    this.extraHeaders = extraHeaders;
   }
 
   async get(url, config = {}) {
     try {
-      const response = await this.instance.get(url, setConfig({ ...config, ...this.extraConfig }));
+      const response = await this.instance.get(url, setConfig({ ...config, ...this.extraConfig }, this.extraHeaders));
       return response.data;
     } catch (ex) {
       return [];
@@ -55,6 +57,10 @@ function getInstance(type) {
       url = 'https://cluj-napoca.pulse.eco/rest';
       break;
     }
+    case 'urad': {
+      url = 'https://data.uradmonitor.com/api/v1/devices';
+      break;
+    }
     default:
       throw new Error(`The instance of type ${type} is not supported!`);
   }
@@ -73,4 +79,11 @@ const extraConfig = {
   },
 };
 
+const extraHeaders = {
+  'X-User-id': 'www',
+  'X-User-hash': 'global',
+  Origin: 'https://www.uradmonitor.com'
+};
+
 export const CJPulseService = new RestHelper(getInstance('pulse-cj'), extraConfig);
+export const UradService = new RestHelper(getInstance('urad'), {}, extraHeaders);
