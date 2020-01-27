@@ -20,5 +20,8 @@ router.route('/last-year')
 router.route('/urad')
   .get((req, res, next) => controller.getUrad(req, res, next));
 
+router.route('/process-urad')
+  .get((req, res, next) => controller.processUrad(req, res, next));
+
 
 export default router;
