@@ -2,541 +2,8533 @@
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1548565310
+		"stamp": 1548565310,
+		"top": [
+			{
+				"time": 1548565310,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548565370,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548565430,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548565490,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548565550,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548565610,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548565670,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548565730,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548565790,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548565850,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1548642844
+		"stamp": 1548642844,
+		"top": [
+			{
+				"time": 1548642844,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548642904,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548642964,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548643024,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548643084,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548643144,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548643204,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548643264,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548643324,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548643384,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1548823395
+		"stamp": 1548823395,
+		"top": [
+			{
+				"time": 1548823395,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548823455,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548823515,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548823575,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548823635,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548823695,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1548902720
+		"stamp": 1548902720,
+		"top": [
+			{
+				"time": 1548902720,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1548989086
+		"stamp": 1548989086,
+		"top": [
+			{
+				"time": 1548989086,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548989146,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548989206,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1548989266,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1549077381
+		"stamp": 1549077381,
+		"top": [
+			{
+				"time": 1549077381,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549077441,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549077501,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549077561,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1549168448
+		"stamp": 1549168448,
+		"top": [
+			{
+				"time": 1549168448,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549168508,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549168568,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549168628,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549168688,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1549247690
+		"stamp": 1549247690,
+		"top": [
+			{
+				"time": 1549247690,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549247749,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549247809,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549247869,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549247930,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549247989,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549248049,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549248109,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549248169,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549248229,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1549343149
+		"stamp": 1549343149,
+		"top": [
+			{
+				"time": 1549343149,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549343209,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549343269,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549353530,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549353590,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549353649,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549353709,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549353769,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549353829,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549353889,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1549511002
+		"stamp": 1549511002,
+		"top": [
+			{
+				"time": 1549511002,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549511062,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549511122,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1549706937
+		"stamp": 1549706937,
+		"top": [
+			{
+				"time": 1549706937,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549706997,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1549858466
+		"stamp": 1549858466,
+		"top": [
+			{
+				"time": 1549858466,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549858526,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549858586,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549858646,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549858706,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549858766,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549858826,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1549962625
+		"stamp": 1549962625,
+		"top": [
+			{
+				"time": 1549962625,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549962685,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549962745,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549962805,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1549962865,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1550111996
+		"stamp": 1550111996,
+		"top": [
+			{
+				"time": 1550111996,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550112056,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550112117,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550112176,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550140852,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550140912,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550140973,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550141032,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550141092,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550141152,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1.13,
-		"stamp": 1550457929
+		"stamp": 1550457929,
+		"top": [
+			{
+				"time": 1550458050,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 2.48
+			},
+			{
+				"time": 1550457929,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550457989,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550458109,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550458169,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550458229,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550458289,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550458349,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1550543847
+		"stamp": 1550543847,
+		"top": [
+			{
+				"time": 1550543847,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550543907,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550543967,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550544027,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550544087,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550544147,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550544206,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550544266,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550544327,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550544387,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1.33,
-		"stamp": 1550634096
+		"stamp": 1550634096,
+		"top": [
+			{
+				"time": 1550634636,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 3.81
+			},
+			{
+				"time": 1550634816,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 3.81
+			},
+			{
+				"time": 1550634096,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 2.48
+			},
+			{
+				"time": 1550634396,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 2.48
+			},
+			{
+				"time": 1550634157,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550634216,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550634276,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550634336,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550634456,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550634516,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1.63,
-		"stamp": 1550804927
+		"stamp": 1550804927,
+		"top": [
+			{
+				"time": 1550804987,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 6.470000000000001
+			},
+			{
+				"time": 1550804927,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550805047,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550805107,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550805167,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550805227,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550805287,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1550805347,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1551061549
+		"stamp": 1551061549,
+		"top": [
+			{
+				"time": 1551061549,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1551061609,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1551061669,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1551061729,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1551061789,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1551061849,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1551061909,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1551061969,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1551062029,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1551062089,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1.52,
-		"stamp": 1551149224
+		"stamp": 1551149224,
+		"top": [
+			{
+				"time": 1551149703,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1551149763,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 3.81
+			},
+			{
+				"time": 1551149823,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 3.81
+			},
+			{
+				"time": 1551149883,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 3.81
+			},
+			{
+				"time": 1551149943,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 3.81
+			},
+			{
+				"time": 1551149224,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1551149284,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1551149344,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1551149404,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1551149464,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1551235546
+		"stamp": 1551235546,
+		"top": [
+			{
+				"time": 1551235546,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1551235605,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1551235665,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1551235725,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1551235785,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1551235845,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1551235905,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1551926886
+		"stamp": 1551926886,
+		"top": [
+			{
+				"time": 1551926886,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1551926946,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 270.16,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1551927006,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 270.58,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1.01,
-		"stamp": 1552271661
+		"stamp": 1552271661,
+		"top": [
+			{
+				"time": 1552274420,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 426.51,
+				"speed": 0.46,
+				"pm10": 2.48
+			},
+			{
+				"time": 1552271661,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 270.67,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552271721,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 363.81,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552271781,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 364.07,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552271841,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 363.89,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552271901,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 364.07,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552271961,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 364.07,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552272021,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 363.63,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552272081,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 363.98,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552272141,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 363.72,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1552445998
+		"stamp": 1552445998,
+		"top": [
+			{
+				"time": 1552445998,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 465.8,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552446058,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 266.14,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552446118,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 266.31,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552446178,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 265.97,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552446238,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 266.14,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552446298,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 266.23,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552446358,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 266.31,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552446418,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 266.31,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552446478,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 266.23,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552446538,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 265.97,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1552534818
+		"stamp": 1552534818,
+		"top": [
+			{
+				"time": 1552534818,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 265.97,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552534878,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 325.08,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552534938,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 325.25,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552534998,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 325.59,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1552963883
+		"stamp": 1552963883,
+		"top": [
+			{
+				"time": 1552963883,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 325.51,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552963943,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 269.13,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552964003,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 268.7,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552964063,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 268.36,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552964123,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.93,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552964183,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.76,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552964243,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.85,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552964303,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.76,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552964363,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.68,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1552964423,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.85,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1553052596
+		"stamp": 1553052596,
+		"top": [
+			{
+				"time": 1553052596,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 334.87,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553052716,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 207.71,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553052776,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 207.28,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553052836,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 207.28,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553052896,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 207.2,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553052956,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 207.03,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553053016,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 207.03,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553053076,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 207.28,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553053136,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 207.37,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553053196,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 207.28,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1.18,
-		"stamp": 1553315309
+		"stamp": 1553315309,
+		"top": [
+			{
+				"time": 1553326253,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 343.91,
+				"speed": 0.46,
+				"pm10": 6.470000000000001
+			},
+			{
+				"time": 1553326433,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 343.91,
+				"speed": 0.46,
+				"pm10": 6.470000000000001
+			},
+			{
+				"time": 1553326313,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 343.91,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1553326373,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 343.91,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1553326553,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 343.91,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1553326613,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 343.91,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1553326193,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 343.65,
+				"speed": 0.46,
+				"pm10": 3.81
+			},
+			{
+				"time": 1553326672,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 343.99,
+				"speed": 0.46,
+				"pm10": 2.48
+			},
+			{
+				"time": 1553315309,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 202.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553315369,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 198.79,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1553402743
+		"stamp": 1553402743,
+		"top": [
+			{
+				"time": 1553402743,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 344.94,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553402803,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 229.9,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553402863,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 229.39,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553402923,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 229.56,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553402983,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 231.18,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553403043,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 233.65,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553403103,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 232.2,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553403163,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 236.29,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553403223,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 236.12,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1553482558
+		"stamp": 1553482558,
+		"top": [
+			{
+				"time": 1553482558,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 235.18,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553482617,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 318.63,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553482678,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 318.72,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553482737,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 318.81,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553482797,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 318.63,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553482857,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 319.24,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553482917,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.7,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553482977,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 323.96,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553483037,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 320.87,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553483097,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 319.67,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1553745520
+		"stamp": 1553745520,
+		"top": [
+			{
+				"time": 1553745520,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 348.64,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553745580,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 177.09,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553745640,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 177.34,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553745700,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 177.51,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553745760,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 177.6,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553745820,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 177.77,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553745880,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 177.85,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553745940,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 177.85,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553746000,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 178.02,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1553746060,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 177.68,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1.11,
-		"stamp": 1554628297
+		"stamp": 1554628297,
+		"top": [
+			{
+				"time": 1554628477,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 343.56,
+				"speed": 0.46,
+				"pm10": 3.81
+			},
+			{
+				"time": 1554628297,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 180.39,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554628357,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 343.48,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554628417,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 343.39,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554628537,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 343.65,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554628597,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 343.73,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554628657,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 343.91,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554628717,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 343.99,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554628777,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 344.16,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554628837,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 344.42,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1.8,
-		"stamp": 1554774807
+		"stamp": 1554774807,
+		"top": [
+			{
+				"time": 1554776606,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 494.84,
+				"speed": 0.46,
+				"pm10": 6.470000000000001
+			},
+			{
+				"time": 1554776666,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 494.58,
+				"speed": 0.46,
+				"pm10": 6.470000000000001
+			},
+			{
+				"time": 1554776786,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 441.1,
+				"speed": 0.46,
+				"pm10": 6.470000000000001
+			},
+			{
+				"time": 1554776546,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 506.64,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1554776726,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 473.29,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1554776846,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 409.35,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1554776486,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 522.74,
+				"speed": 0.46,
+				"pm10": 2.48
+			},
+			{
+				"time": 1554774807,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 352.6,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554774867,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 389.88,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554774927,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 391.78,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1554861231
+		"stamp": 1554861231,
+		"top": [
+			{
+				"time": 1554861231,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 405.63,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554861290,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 378.04,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554861350,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 378.56,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554861410,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 379.51,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554861470,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 381.76,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554861531,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 384.69,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554861590,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 383.92,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554861650,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 383.74,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554861710,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 383.66,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554861770,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 383.92,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1554954409
+		"stamp": 1554954409,
+		"top": [
+			{
+				"time": 1554954409,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 391.52,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554954469,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 361.05,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554954529,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 361.05,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554954589,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 360.96,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554954649,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 360.96,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554954709,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 361.05,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554954769,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 361.13,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554954829,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 360.88,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554954888,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 360.96,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1554954948,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 360.96,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1555032742
+		"stamp": 1555032742,
+		"top": [
+			{
+				"time": 1555032742,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 369.76,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555032802,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 334.44,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555032862,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 334.7,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555032922,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 334.7,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555032982,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 334.7,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555033042,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 334.44,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555033102,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 334.7,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555033162,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 334.62,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555033222,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 334.44,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555033282,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 334.44,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 11.5,
-		"stamp": 1555144062
+		"stamp": 1555144062,
+		"top": [
+			{
+				"time": 1555144062,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 349.5,
+				"speed": 0.46,
+				"pm10": 17.11
+			},
+			{
+				"time": 1555144122,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 305.34,
+				"speed": 0.46,
+				"pm10": 6.470000000000001
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1.14,
-		"stamp": 1555296084
+		"stamp": 1555296084,
+		"top": [
+			{
+				"time": 1555298003,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 273.4,
+				"speed": 0.46,
+				"pm10": 6.470000000000001
+			},
+			{
+				"time": 1555297943,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 273.4,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1555298063,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 273.49,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1555298123,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 273.57,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1555298183,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 273.57,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1555298243,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 273.49,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1555298303,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 273.4,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1555296084,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 305.68,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555296144,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 274.09,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555296204,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 274.09,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1555465493
+		"stamp": 1555465493,
+		"top": [
+			{
+				"time": 1555465493,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 314.51,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555465553,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 282.04,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555465613,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 281.61,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555465673,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 281.61,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555465732,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 281.53,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555465792,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 281.53,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555465852,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 281.53,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555465912,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 281.44,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555465972,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 281.53,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555466032,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 281.53,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1555551667
+		"stamp": 1555551667,
+		"top": [
+			{
+				"time": 1555551667,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 347.61,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555551727,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 216.89,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555551787,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 216.97,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555551847,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 217.14,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555551907,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 217.06,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555551967,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 216.38,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555552027,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 215.19,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555552087,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 216.63,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555552147,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 219.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555552207,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 219.78,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1.22,
-		"stamp": 1555897609
+		"stamp": 1555897609,
+		"top": [
+			{
+				"time": 1555909423,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 284.52,
+				"speed": 0.46,
+				"pm10": 10.46
+			},
+			{
+				"time": 1555909363,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 287.86,
+				"speed": 0.46,
+				"pm10": 7.800000000000001
+			},
+			{
+				"time": 1555910023,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 278.28,
+				"speed": 0.46,
+				"pm10": 6.470000000000001
+			},
+			{
+				"time": 1555910083,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 277.85,
+				"speed": 0.46,
+				"pm10": 6.470000000000001
+			},
+			{
+				"time": 1555909303,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 291.37,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1555909783,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 281.7,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1555909843,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 280.93,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1555909963,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 278.19,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1555908703,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 336.51,
+				"speed": 0.46,
+				"pm10": 3.81
+			},
+			{
+				"time": 1555909483,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 285.12,
+				"speed": 0.46,
+				"pm10": 2.48
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1555983974
+		"stamp": 1555983974,
+		"top": [
+			{
+				"time": 1555983974,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 277.85,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555984034,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 242.85,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555984094,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 243.02,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555984154,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 242.76,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555984214,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 242.76,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555984274,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 242.76,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555984334,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 242.68,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555984394,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 241.48,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555984454,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 243.02,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1555984514,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 246.43,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 2.33,
-		"stamp": 1556070061
+		"stamp": 1556070061,
+		"top": [
+			{
+				"time": 1556070780,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 246.77,
+				"speed": 0.46,
+				"pm10": 21.1
+			},
+			{
+				"time": 1556072639,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 255.38,
+				"speed": 0.46,
+				"pm10": 14.450000000000001
+			},
+			{
+				"time": 1556072699,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 252.4,
+				"speed": 0.46,
+				"pm10": 13.120000000000001
+			},
+			{
+				"time": 1556070840,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 247.02,
+				"speed": 0.46,
+				"pm10": 11.790000000000001
+			},
+			{
+				"time": 1556072579,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 254.79,
+				"speed": 0.46,
+				"pm10": 11.790000000000001
+			},
+			{
+				"time": 1556072519,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 250.95,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1556070061,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 383.31,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1556070121,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 246.43,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1556070181,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 246.43,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1556070241,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 246.43,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1.89,
-		"stamp": 1556157412
+		"stamp": 1556157412,
+		"top": [
+			{
+				"time": 1556159691,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 305.85,
+				"speed": 0.46,
+				"pm10": 6.470000000000001
+			},
+			{
+				"time": 1556159870,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 303.62,
+				"speed": 0.46,
+				"pm10": 6.470000000000001
+			},
+			{
+				"time": 1556160050,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 286.15,
+				"speed": 0.46,
+				"pm10": 6.470000000000001
+			},
+			{
+				"time": 1556159631,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 305.42,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1556159751,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 305.68,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1556159811,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 305.42,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1556159930,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 287.69,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1556159990,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 286.4,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1556160110,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 281.1,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1556159571,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 298.48,
+				"speed": 0.46,
+				"pm10": 3.81
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1.02,
-		"stamp": 1556249616
+		"stamp": 1556249616,
+		"top": [
+			{
+				"time": 1556249616,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 278.7,
+				"speed": 0.46,
+				"pm10": 2.48
+			},
+			{
+				"time": 1556249676,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 261.96,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1556249736,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 262.21,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1556249796,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 262.21,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1556249856,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 261.96,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1556249916,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 261.87,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1556249976,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 261.7,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1556250036,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 261.53,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1556250096,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 261.53,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1556250156,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 261.61,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 3.18,
-		"stamp": 1556761645
+		"stamp": 1556761645,
+		"top": [
+			{
+				"time": 1556772439,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 470.68,
+				"speed": 0.46,
+				"pm10": 91.59
+			},
+			{
+				"time": 1556773819,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 361.31,
+				"speed": 0.46,
+				"pm10": 82.28000000000002
+			},
+			{
+				"time": 1556773879,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 361.39,
+				"speed": 0.46,
+				"pm10": 72.97000000000001
+			},
+			{
+				"time": 1556772379,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 489.51,
+				"speed": 0.46,
+				"pm10": 71.64000000000001
+			},
+			{
+				"time": 1556772679,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 429.98,
+				"speed": 0.46,
+				"pm10": 67.65
+			},
+			{
+				"time": 1556772739,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 395.85,
+				"speed": 0.46,
+				"pm10": 62.330000000000005
+			},
+			{
+				"time": 1556772500,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 462.23,
+				"speed": 0.46,
+				"pm10": 57.01
+			},
+			{
+				"time": 1556772979,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 367.17,
+				"speed": 0.46,
+				"pm10": 55.68
+			},
+			{
+				"time": 1556772559,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 463.01,
+				"speed": 0.46,
+				"pm10": 45.04
+			},
+			{
+				"time": 1556772619,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 457.53,
+				"speed": 0.46,
+				"pm10": 43.71
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1.05,
-		"stamp": 1556847769
+		"stamp": 1556847769,
+		"top": [
+			{
+				"time": 1556853287,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 345.2,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1556853347,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 345.2,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1556853227,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 345.8,
+				"speed": 0.46,
+				"pm10": 3.81
+			},
+			{
+				"time": 1556847769,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 381.76,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1556847829,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 348.12,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1556847889,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 348.3,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1556847949,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 348.38,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1556848009,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 348.38,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1556848069,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 348.64,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1556848129,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 348.81,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1.02,
-		"stamp": 1557114032
+		"stamp": 1557114032,
+		"top": [
+			{
+				"time": 1557114032,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 481.14,
+				"speed": 0.46,
+				"pm10": 2.48
+			},
+			{
+				"time": 1557114092,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 407.36,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557114152,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 410.22,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557114212,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 412.21,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557114272,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 410.39,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557114332,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 411.08,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557114392,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 414.03,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557114452,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 415.24,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557114512,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 414.63,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557114572,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 413.85,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1557193299
+		"stamp": 1557193299,
+		"top": [
+			{
+				"time": 1557193299,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 445.53,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557193359,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 360.7,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557193419,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 360.27,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557193479,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 360.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557193539,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 360.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557193599,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 360.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557193659,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 359.58,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557193719,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 360.79,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557193779,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 365.27,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557193839,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 360.88,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1557286146
+		"stamp": 1557286146,
+		"top": [
+			{
+				"time": 1557286146,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 290,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557286206,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 286.49,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557286266,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 286.49,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557286326,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 292.31,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557286386,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 290.86,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557286446,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 289.4,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557286506,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 290.6,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557286566,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 294.11,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557286626,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 294.88,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557286686,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 294.45,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1.52,
-		"stamp": 1557459048
+		"stamp": 1557459048,
+		"top": [
+			{
+				"time": 1557463665,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 383.23,
+				"speed": 0.46,
+				"pm10": 96.91000000000001
+			},
+			{
+				"time": 1557463605,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 384.78,
+				"speed": 0.46,
+				"pm10": 95.58000000000001
+			},
+			{
+				"time": 1557463485,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 386.51,
+				"speed": 0.46,
+				"pm10": 94.25000000000001
+			},
+			{
+				"time": 1557463545,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 386.34,
+				"speed": 0.46,
+				"pm10": 67.65
+			},
+			{
+				"time": 1557463725,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 382.45,
+				"speed": 0.46,
+				"pm10": 57.01
+			},
+			{
+				"time": 1557463425,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 387.63,
+				"speed": 0.46,
+				"pm10": 49.03
+			},
+			{
+				"time": 1557463905,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 382.02,
+				"speed": 0.46,
+				"pm10": 18.439999999999998
+			},
+			{
+				"time": 1557463965,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 381.67,
+				"speed": 0.46,
+				"pm10": 18.439999999999998
+			},
+			{
+				"time": 1557463845,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 382.1,
+				"speed": 0.46,
+				"pm10": 15.780000000000001
+			},
+			{
+				"time": 1557463365,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 387.72,
+				"speed": 0.46,
+				"pm10": 13.120000000000001
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1557562573
+		"stamp": 1557562573,
+		"top": [
+			{
+				"time": 1557562573,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 327.74,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557562633,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 309.37,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557562693,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 309.62,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1557709683
+		"stamp": 1557709683,
+		"top": [
+			{
+				"time": 1557709683,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 310.48,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557709743,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 259.14,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557709803,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 259.05,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557709863,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 259.14,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557709923,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 259.05,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557709983,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 259.14,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557710043,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 259.05,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557710103,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 259.05,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557710163,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 258.88,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557710223,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 258.88,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1557798318
+		"stamp": 1557798318,
+		"top": [
+			{
+				"time": 1557798318,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 264.52,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557798378,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 277.25,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557798438,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 277.34,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557798498,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 277.51,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557798558,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 277.42,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557798618,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 277.59,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557798678,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 277.85,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557798738,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 277.85,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557798798,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 278.11,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557798858,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 278.36,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1557885049
+		"stamp": 1557885049,
+		"top": [
+			{
+				"time": 1557885049,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 295.57,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557885109,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 322.16,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557885169,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 322.41,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557885229,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 322.5,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557885289,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 322.67,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557885349,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 322.5,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557885409,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 322.5,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557885469,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 322.67,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557885529,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 322.5,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557885589,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 321.3,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1.3,
-		"stamp": 1557974831
+		"stamp": 1557974831,
+		"top": [
+			{
+				"time": 1557974951,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 309.54,
+				"speed": 0.46,
+				"pm10": 75.63000000000001
+			},
+			{
+				"time": 1557975011,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 310.4,
+				"speed": 0.46,
+				"pm10": 50.36
+			},
+			{
+				"time": 1557975071,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 314.43,
+				"speed": 0.46,
+				"pm10": 30.41
+			},
+			{
+				"time": 1557975131,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 313.14,
+				"speed": 0.46,
+				"pm10": 27.75
+			},
+			{
+				"time": 1557975191,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 311.51,
+				"speed": 0.46,
+				"pm10": 6.470000000000001
+			},
+			{
+				"time": 1557974831,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 341.93,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557974891,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 308.68,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557975251,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 312.46,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557975311,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 313.83,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1557975371,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 315.12,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1558058486
+		"stamp": 1558058486,
+		"top": [
+			{
+				"time": 1558058486,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 349.16,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558058546,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 454.57,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558058606,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 453.96,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558058666,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 453.96,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558058726,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 454.05,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558058786,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 454.22,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558058846,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 454.05,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558058906,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 454.05,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558058966,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 454.05,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558059026,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 454.14,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1558320472
+		"stamp": 1558320472,
+		"top": [
+			{
+				"time": 1558320472,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 445.09,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558320531,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 498.07,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558320591,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 498.6,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558320651,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 499.91,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558320711,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 499.91,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558320771,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 499.03,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558320831,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 494.49,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558320891,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 473.64,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558320951,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 467.63,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558321011,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 465.8,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1558403716
+		"stamp": 1558403716,
+		"top": [
+			{
+				"time": 1558421647,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 352.77,
+				"speed": 0.46,
+				"pm10": 2.48
+			},
+			{
+				"time": 1558403716,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 358.12,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558403776,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 357,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558403836,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 357.08,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558403896,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 357.6,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558403956,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 357.6,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558404016,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 357.86,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558404076,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 357.77,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558404136,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 357.69,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558404196,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 357.77,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 4.96,
-		"stamp": 1558493236
+		"stamp": 1558493236,
+		"top": [
+			{
+				"time": 1558495335,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 340.21,
+				"speed": 0.46,
+				"pm10": 108.88000000000001
+			},
+			{
+				"time": 1558495275,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 339.26,
+				"speed": 0.46,
+				"pm10": 82.28000000000002
+			},
+			{
+				"time": 1558495395,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 341.67,
+				"speed": 0.46,
+				"pm10": 82.28000000000002
+			},
+			{
+				"time": 1558495515,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 345.03,
+				"speed": 0.46,
+				"pm10": 82.28000000000002
+			},
+			{
+				"time": 1558495695,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 430.16,
+				"speed": 0.46,
+				"pm10": 82.28000000000002
+			},
+			{
+				"time": 1558495575,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 363.38,
+				"speed": 0.46,
+				"pm10": 72.97000000000001
+			},
+			{
+				"time": 1558495755,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 436.84,
+				"speed": 0.46,
+				"pm10": 71.64000000000001
+			},
+			{
+				"time": 1558496235,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 468.5,
+				"speed": 0.46,
+				"pm10": 71.64000000000001
+			},
+			{
+				"time": 1558496303,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 468.67,
+				"speed": 0.46,
+				"pm10": 71.64000000000001
+			},
+			{
+				"time": 1558495635,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 396.19,
+				"speed": 0.46,
+				"pm10": 67.65
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1558576198
+		"stamp": 1558576198,
+		"top": [
+			{
+				"time": 1558576198,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 439.45,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558576258,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 334.79,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558576318,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 334.87,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558576378,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 334.79,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558576438,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 335.3,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558576498,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 335.22,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558576558,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 335.13,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558576618,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 334.44,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558576678,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 334.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558576738,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 334.87,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1558662999
+		"stamp": 1558662999,
+		"top": [
+			{
+				"time": 1558662999,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 399.65,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558663059,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 325.68,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558663179,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 325.33,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558663305,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 324.13,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558663421,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 330.75,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558663478,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 326.71,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558663598,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 327.14,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558663658,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 327.31,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558663719,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 327.14,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558663778,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 327.31,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1558770207
+		"stamp": 1558770207,
+		"top": [
+			{
+				"time": 1558770207,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 322.67,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558770267,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 318.03,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558770327,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 318.38,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558770387,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 318.55,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558770447,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 318.55,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1558836465
+		"stamp": 1558836465,
+		"top": [
+			{
+				"time": 1558836465,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 318.55,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558836531,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 289.91,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558836594,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 289.66,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558836780,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 288.89,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558836826,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 293.94,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558836955,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 289.66,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558837083,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 293.77,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558837129,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 294.11,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558837197,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 297.02,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558837482,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 296.59,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1558921711
+		"stamp": 1558921711,
+		"top": [
+			{
+				"time": 1558924940,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 330.32,
+				"speed": 0.46,
+				"pm10": 2.48
+			},
+			{
+				"time": 1558921711,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 414.2,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558921771,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 289.91,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558922064,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 289.74,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558922193,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 287.09,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558922612,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 294.11,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558922677,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 298.56,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558922775,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 299.25,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558922819,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 300.28,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1558923000,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 300.79,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1559013705
+		"stamp": 1559013705,
+		"top": [
+			{
+				"time": 1559013705,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 296.34,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559013764,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 328.51,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559013824,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 328.51,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559013884,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 328.6,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559013944,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 328.51,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559014004,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 328.43,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559014064,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 328.43,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559014124,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 328.25,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559014184,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 327.91,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559014244,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 327.57,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1559094421
+		"stamp": 1559094421,
+		"top": [
+			{
+				"time": 1559094421,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 424.17,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559094480,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 343.91,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559094540,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 344.08,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559094600,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 343.39,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559094660,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 343.13,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559094720,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 344.6,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559094780,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 349.07,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559094840,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 346.49,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559094900,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 347.69,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559094960,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 350.36,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1559220267
+		"stamp": 1559220267,
+		"top": [
+			{
+				"time": 1559220267,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 344.77,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559220327,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.17,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559220387,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.42,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559220447,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.51,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559220507,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.76,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559220567,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 265.12,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559220627,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 264.77,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559220687,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.34,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559220747,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 269.04,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559220807,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 269.39,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1559267221
+		"stamp": 1559267221,
+		"top": [
+			{
+				"time": 1559267221,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 247.96,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559267283,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 249.67,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559267341,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 249.58,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559267400,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 249.24,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559267461,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 249.16,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559267520,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 249.16,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559267580,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 249.07,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559267640,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 249.33,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559267700,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 249.16,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559267760,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 248.99,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1559381976
+		"stamp": 1559381976,
+		"top": [
+			{
+				"time": 1559381976,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 294.88,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559382036,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.85,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559382096,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.85,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559382156,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.85,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559382216,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.68,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559382276,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.51,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559382336,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.59,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559382396,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.42,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559382456,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.59,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559382516,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.34,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1559532584
+		"stamp": 1559532584,
+		"top": [
+			{
+				"time": 1559532584,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.59,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559532645,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 291.2,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559532704,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 291.28,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559532764,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 291.37,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559532824,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 291.11,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559532884,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 291.37,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559532944,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 291.2,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559533004,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 291.37,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559533064,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 290.51,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559533124,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 289.74,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1559613076
+		"stamp": 1559613076,
+		"top": [
+			{
+				"time": 1559613076,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 423.91,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559613136,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 313.4,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559613196,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 312.37,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559613256,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 313.83,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559613316,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 313.91,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559613376,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 316.66,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559613437,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 316.57,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559613496,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 315.89,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559613556,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 315.89,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559613624,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 316.15,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1.01,
-		"stamp": 1559700319
+		"stamp": 1559700319,
+		"top": [
+			{
+				"time": 1559724302,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 353.64,
+				"speed": 0.46,
+				"pm10": 10.46
+			},
+			{
+				"time": 1559724242,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 348.99,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1559700319,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 312.63,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559700374,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 316.4,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559700434,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 316.49,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559700494,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 316.66,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559700554,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 316.49,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559700616,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 316.75,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559700674,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 316.66,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559700734,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 316.57,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1559792436
+		"stamp": 1559792436,
+		"top": [
+			{
+				"time": 1559792436,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 384.69,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559792496,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 305.08,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559792556,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 305.08,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559792616,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 305.08,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559792676,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 304.74,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559792736,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 304.56,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559792796,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 304.65,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559792856,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 304.48,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559792916,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 303.36,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1559792976,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 303.28,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1565182522
+		"stamp": 1565182522,
+		"top": [
+			{
+				"time": 1565182522,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 435.8,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1565182582,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 310.83,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1565182642,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 311.08,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1565182702,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 311.17,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1565182762,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 311.25,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1565182822,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 311.17,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1565182882,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 311.6,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1565182942,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 311.68,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1565183002,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 311.77,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1568080216
+		"stamp": 1568080216,
+		"top": [
+			{
+				"time": 1568080216,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 311.77,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1568080276,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 270.33,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1568080336,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.68,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1568080396,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 269.13,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1568080456,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 272.89,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1568080516,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 269.81,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1568080576,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 270.24,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1568080636,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 271.78,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1568080696,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 274.94,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1568080756,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 274.51,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 15.21,
-		"stamp": 1568857056
+		"stamp": 1568857056,
+		"top": [
+			{
+				"time": 1568858795,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 248.64,
+				"speed": 0.46,
+				"pm10": 154.10000000000002
+			},
+			{
+				"time": 1568857056,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 317.18,
+				"speed": 0.46,
+				"pm10": 136.81
+			},
+			{
+				"time": 1568858855,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 250.18,
+				"speed": 0.46,
+				"pm10": 132.82000000000002
+			},
+			{
+				"time": 1568857116,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 240.89,
+				"speed": 0.46,
+				"pm10": 90.26
+			},
+			{
+				"time": 1568858196,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 249.41,
+				"speed": 0.46,
+				"pm10": 78.29
+			},
+			{
+				"time": 1568858256,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 249.75,
+				"speed": 0.46,
+				"pm10": 71.64000000000001
+			},
+			{
+				"time": 1568858915,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 251.2,
+				"speed": 0.46,
+				"pm10": 50.36
+			},
+			{
+				"time": 1568858736,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 248.13,
+				"speed": 0.46,
+				"pm10": 45.04
+			},
+			{
+				"time": 1568857176,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 240.97,
+				"speed": 0.46,
+				"pm10": 34.4
+			},
+			{
+				"time": 1568858975,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 253.51,
+				"speed": 0.46,
+				"pm10": 13.120000000000001
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 4.79,
-		"stamp": 1570157748
+		"stamp": 1570157748,
+		"top": [
+			{
+				"time": 1570158288,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 317.78,
+				"speed": 0.46,
+				"pm10": 62.330000000000005
+			},
+			{
+				"time": 1570158228,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 317.86,
+				"speed": 0.46,
+				"pm10": 61
+			},
+			{
+				"time": 1570158348,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 317.43,
+				"speed": 0.46,
+				"pm10": 29.08
+			},
+			{
+				"time": 1570158408,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 317.69,
+				"speed": 0.46,
+				"pm10": 11.790000000000001
+			},
+			{
+				"time": 1570157748,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 256.32,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1570157808,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 318.72,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1570157868,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 318.63,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1570157928,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 318.46,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1570157988,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 318.46,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1570158048,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 318.21,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1570241417
+		"stamp": 1570241417,
+		"top": [
+			{
+				"time": 1570241417,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 345.63,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1570241477,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 331.01,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1570241537,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 331.18,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1570241597,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 331.35,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1570241657,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 331.26,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1570241717,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 331.35,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1570241777,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 331.26,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1570241837,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 331.18,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1570241897,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 331.09,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1570241957,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 330.92,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 22.44,
-		"stamp": 1570330888
+		"stamp": 1570330888,
+		"top": [
+			{
+				"time": 1570332028,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 360.88,
+				"speed": 0.46,
+				"pm10": 166.07000000000002
+			},
+			{
+				"time": 1570331968,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 360.01,
+				"speed": 0.46,
+				"pm10": 155.43
+			},
+			{
+				"time": 1570331308,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 348.47,
+				"speed": 0.46,
+				"pm10": 139.47
+			},
+			{
+				"time": 1570332088,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 362.17,
+				"speed": 0.46,
+				"pm10": 138.14000000000001
+			},
+			{
+				"time": 1570331908,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 358.2,
+				"speed": 0.46,
+				"pm10": 111.54
+			},
+			{
+				"time": 1570332148,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 364.07,
+				"speed": 0.46,
+				"pm10": 102.23000000000002
+			},
+			{
+				"time": 1570331848,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 356.91,
+				"speed": 0.46,
+				"pm10": 84.94000000000001
+			},
+			{
+				"time": 1570331788,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 355.7,
+				"speed": 0.46,
+				"pm10": 71.64000000000001
+			},
+			{
+				"time": 1570332208,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 364.84,
+				"speed": 0.46,
+				"pm10": 68.98
+			},
+			{
+				"time": 1570332688,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 484.89,
+				"speed": 0.46,
+				"pm10": 62.330000000000005
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1570413014
+		"stamp": 1570413014,
+		"top": [
+			{
+				"time": 1570413014,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 307.48,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1570413074,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 295.65,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1570413134,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 295.74,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1570413194,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 295.82,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1570413254,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 295.82,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1570413314,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 295.91,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1570413374,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 295.82,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1570413434,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 295.65,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1570413494,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 295.74,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1570413554,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 295.74,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 5.63,
-		"stamp": 1571016926
+		"stamp": 1571016926,
+		"top": [
+			{
+				"time": 1571019684,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 227.94,
+				"speed": 0.46,
+				"pm10": 70.31
+			},
+			{
+				"time": 1571016926,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 340.46,
+				"speed": 0.46,
+				"pm10": 66.32000000000001
+			},
+			{
+				"time": 1571019625,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 227.94,
+				"speed": 0.46,
+				"pm10": 43.71
+			},
+			{
+				"time": 1571016986,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 224.45,
+				"speed": 0.46,
+				"pm10": 35.73
+			},
+			{
+				"time": 1571019565,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 227.77,
+				"speed": 0.46,
+				"pm10": 22.43
+			},
+			{
+				"time": 1571019505,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 226.84,
+				"speed": 0.46,
+				"pm10": 11.790000000000001
+			},
+			{
+				"time": 1571017046,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 224.45,
+				"speed": 0.46,
+				"pm10": 9.13
+			},
+			{
+				"time": 1571019744,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 228.45,
+				"speed": 0.46,
+				"pm10": 2.48
+			},
+			{
+				"time": 1571017106,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 224.45,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571017166,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 224.54,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 12.27,
-		"stamp": 1571106586
+		"stamp": 1571106586,
+		"top": [
+			{
+				"time": 1571106826,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 251.46,
+				"speed": 0.46,
+				"pm10": 446.7
+			},
+			{
+				"time": 1571106766,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 251.37,
+				"speed": 0.46,
+				"pm10": 201.98000000000002
+			},
+			{
+				"time": 1571106886,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 251.37,
+				"speed": 0.46,
+				"pm10": 92.92000000000002
+			},
+			{
+				"time": 1571106946,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 251.37,
+				"speed": 0.46,
+				"pm10": 9.13
+			},
+			{
+				"time": 1571106586,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 239.1,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571106646,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 252.23,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571106706,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 251.89,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571107006,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 251.2,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571107066,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 251.2,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571107126,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 251.2,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 5.27,
-		"stamp": 1571194973
+		"stamp": 1571194973,
+		"top": [
+			{
+				"time": 1571194973,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 268.62,
+				"speed": 0.46,
+				"pm10": 94.25000000000001
+			},
+			{
+				"time": 1571195033,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 269.98,
+				"speed": 0.46,
+				"pm10": 71.64000000000001
+			},
+			{
+				"time": 1571195093,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 269.9,
+				"speed": 0.46,
+				"pm10": 25.09
+			},
+			{
+				"time": 1571195153,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 270.07,
+				"speed": 0.46,
+				"pm10": 2.48
+			},
+			{
+				"time": 1571195213,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 270.07,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571195273,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 269.98,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571195333,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 270.16,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571195393,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 270.16,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571195453,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 270.16,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571195513,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 270.07,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1571280031
+		"stamp": 1571280031,
+		"top": [
+			{
+				"time": 1571280031,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 412.12,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571280091,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 260.33,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571280151,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 260.25,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571280211,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 260.08,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571280271,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 259.91,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571280331,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 259.82,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571280391,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 259.82,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571280451,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 259.65,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571280511,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 259.82,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571280571,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 259.65,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1571624408
+		"stamp": 1571624408,
+		"top": [
+			{
+				"time": 1571624408,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 259.14,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571624468,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 229.73,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571624528,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 229.82,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571624588,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 229.3,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571624648,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 229.05,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571624708,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 228.96,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571624768,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 229.05,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571624828,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 228.88,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571624888,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 228.45,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571624948,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 228.37,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 5.43,
-		"stamp": 1571713403
+		"stamp": 1571713403,
+		"top": [
+			{
+				"time": 1571713463,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 215.27,
+				"speed": 0.46,
+				"pm10": 124.84000000000002
+			},
+			{
+				"time": 1571713523,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 214.68,
+				"speed": 0.46,
+				"pm10": 33.07
+			},
+			{
+				"time": 1571713403,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 228.45,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571713583,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 214.59,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571713643,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 214.68,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571713703,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 214.59,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571713763,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 214.51,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571713823,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 214.51,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571713883,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 214.25,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571713943,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 214.34,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1571881923
+		"stamp": 1571881923,
+		"top": [
+			{
+				"time": 1571881923,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 220.8,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571881984,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 245.23,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571882043,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 244.98,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571882103,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 244.89,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571882163,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 244.81,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571882223,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 244.89,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571882283,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 244.89,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571882343,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 244.89,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571882405,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 244.81,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571882463,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 244.72,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 7.29,
-		"stamp": 1571972374
+		"stamp": 1571972374,
+		"top": [
+			{
+				"time": 1571972854,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 260.16,
+				"speed": 0.46,
+				"pm10": 123.51000000000002
+			},
+			{
+				"time": 1571972914,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 260.33,
+				"speed": 0.46,
+				"pm10": 49.03
+			},
+			{
+				"time": 1571972974,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 260.85,
+				"speed": 0.46,
+				"pm10": 26.42
+			},
+			{
+				"time": 1571972374,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 252.31,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571972434,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 260.42,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571972494,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 260.42,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571972554,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 260.33,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571972614,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 260.33,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571972674,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 260.25,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1571972734,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 260.16,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1572233275
+		"stamp": 1572233275,
+		"top": [
+			{
+				"time": 1572233275,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 271.18,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572233335,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 279.13,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572233395,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 279.3,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572233455,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 279.13,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572233515,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 278.96,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572233575,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 279.05,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572233635,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 278.88,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572233695,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 278.88,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572233755,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 278.79,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572233815,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 278.79,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 5.96,
-		"stamp": 1572403730
+		"stamp": 1572403730,
+		"top": [
+			{
+				"time": 1572405349,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 241.99,
+				"speed": 0.46,
+				"pm10": 91.59
+			},
+			{
+				"time": 1572405289,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 242.17,
+				"speed": 0.46,
+				"pm10": 55.68
+			},
+			{
+				"time": 1572406608,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 247.62,
+				"speed": 0.46,
+				"pm10": 54.35
+			},
+			{
+				"time": 1572405409,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 241.74,
+				"speed": 0.46,
+				"pm10": 50.36
+			},
+			{
+				"time": 1572405469,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 241.57,
+				"speed": 0.46,
+				"pm10": 34.4
+			},
+			{
+				"time": 1572405529,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 241.48,
+				"speed": 0.46,
+				"pm10": 25.09
+			},
+			{
+				"time": 1572405589,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 241.31,
+				"speed": 0.46,
+				"pm10": 18.439999999999998
+			},
+			{
+				"time": 1572406548,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 241.99,
+				"speed": 0.46,
+				"pm10": 14.450000000000001
+			},
+			{
+				"time": 1572405649,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 241.06,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1572403730,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 298.91,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1572489638
+		"stamp": 1572489638,
+		"top": [
+			{
+				"time": 1572489638,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 304.99,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572489698,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 217.65,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572489758,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 217.48,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572489818,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 217.65,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572489878,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 217.57,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572489938,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 217.65,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572489998,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 217.48,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572490058,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 216.63,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572490118,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 216.29,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572490178,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 217.82,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 9.23,
-		"stamp": 1572576511
+		"stamp": 1572576511,
+		"top": [
+			{
+				"time": 1572579510,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 218.93,
+				"speed": 0.46,
+				"pm10": 140.8
+			},
+			{
+				"time": 1572578071,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 218.67,
+				"speed": 0.46,
+				"pm10": 122.18
+			},
+			{
+				"time": 1572579450,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 219.1,
+				"speed": 0.46,
+				"pm10": 99.57000000000001
+			},
+			{
+				"time": 1572578131,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 218.93,
+				"speed": 0.46,
+				"pm10": 95.58000000000001
+			},
+			{
+				"time": 1572579570,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 219.01,
+				"speed": 0.46,
+				"pm10": 68.98
+			},
+			{
+				"time": 1572578191,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 219.01,
+				"speed": 0.46,
+				"pm10": 63.660000000000004
+			},
+			{
+				"time": 1572578011,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 218.59,
+				"speed": 0.46,
+				"pm10": 58.34
+			},
+			{
+				"time": 1572578251,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 219.18,
+				"speed": 0.46,
+				"pm10": 57.01
+			},
+			{
+				"time": 1572578310,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 219.18,
+				"speed": 0.46,
+				"pm10": 57.01
+			},
+			{
+				"time": 1572578370,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 219.27,
+				"speed": 0.46,
+				"pm10": 53.02
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1572844711
+		"stamp": 1572844711,
+		"top": [
+			{
+				"time": 1572844711,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 216.63,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572844771,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 415.41,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572844831,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 415.15,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572844891,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 415.24,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572844951,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 415.24,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572845011,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 414.98,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572845071,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 414.98,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572845131,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 415.07,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572845191,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 414.81,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1572845251,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 414.81,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1.63,
-		"stamp": 1573113257
+		"stamp": 1573113257,
+		"top": [
+			{
+				"time": 1573113437,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 350.11,
+				"speed": 0.46,
+				"pm10": 47.7
+			},
+			{
+				"time": 1573113377,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 349.93,
+				"speed": 0.46,
+				"pm10": 34.4
+			},
+			{
+				"time": 1573113497,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 350.62,
+				"speed": 0.46,
+				"pm10": 17.11
+			},
+			{
+				"time": 1573113257,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 413.25,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573113317,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 349.76,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573113557,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 350.71,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573113617,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 350.79,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573113677,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 350.71,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573113737,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 350.45,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573113797,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 350.36,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1573210959
+		"stamp": 1573210959,
+		"top": [
+			{
+				"time": 1573210959,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 353.38,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573211018,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 338.4,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573211078,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 338.66,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573211138,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 338.4,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573211198,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 338.4,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573211258,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 338.31,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573211319,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 338.4,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1573612932
+		"stamp": 1573612932,
+		"top": [
+			{
+				"time": 1573612932,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 338.57,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573612992,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 349.24,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573613052,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 349.24,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573613112,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 349.5,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573613172,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 349.16,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573613232,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 348.99,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573613292,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 349.33,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573613352,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 349.67,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573613412,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 349.85,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573613472,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 350.28,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1573961478
+		"stamp": 1573961478,
+		"top": [
+			{
+				"time": 1573961478,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 369.33,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573961538,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 250.86,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573961598,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 251.03,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573961658,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 251.12,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573961718,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 251.37,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573961778,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 251.46,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573961855,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 251.54,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573961897,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 251.12,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573961957,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 250.61,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1573962017,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 250.61,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 3.91,
-		"stamp": 1574044251
+		"stamp": 1574044251,
+		"top": [
+			{
+				"time": 1574044551,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 295.14,
+				"speed": 0.46,
+				"pm10": 88.93
+			},
+			{
+				"time": 1574044491,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 294.97,
+				"speed": 0.46,
+				"pm10": 76.96000000000001
+			},
+			{
+				"time": 1574044611,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 294.97,
+				"speed": 0.46,
+				"pm10": 22.43
+			},
+			{
+				"time": 1574044671,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 294.97,
+				"speed": 0.46,
+				"pm10": 7.800000000000001
+			},
+			{
+				"time": 1574044251,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 265.63,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574044311,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 294.45,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574044371,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 294.8,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574044431,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 294.88,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574044731,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 295.05,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574044791,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 295.22,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1.01,
-		"stamp": 1574130735
+		"stamp": 1574130735,
+		"top": [
+			{
+				"time": 1574130735,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 332.81,
+				"speed": 0.46,
+				"pm10": 2.48
+			},
+			{
+				"time": 1574130795,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 220.46,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574130855,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 220.63,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574130915,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 220.63,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574130975,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 220.71,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574131034,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 220.88,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574131094,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 220.97,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574131154,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 221.39,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574131214,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 221.22,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574131274,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 221.22,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 3.45,
-		"stamp": 1574217088
+		"stamp": 1574217088,
+		"top": [
+			{
+				"time": 1574217928,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 241.91,
+				"speed": 0.46,
+				"pm10": 51.690000000000005
+			},
+			{
+				"time": 1574217988,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 241.82,
+				"speed": 0.46,
+				"pm10": 33.07
+			},
+			{
+				"time": 1574219127,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 248.9,
+				"speed": 0.46,
+				"pm10": 22.43
+			},
+			{
+				"time": 1574219067,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 248.13,
+				"speed": 0.46,
+				"pm10": 21.1
+			},
+			{
+				"time": 1574218048,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 242.08,
+				"speed": 0.46,
+				"pm10": 19.77
+			},
+			{
+				"time": 1574218108,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 241.99,
+				"speed": 0.46,
+				"pm10": 6.470000000000001
+			},
+			{
+				"time": 1574219007,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 250.35,
+				"speed": 0.46,
+				"pm10": 2.48
+			},
+			{
+				"time": 1574217088,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 200.66,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574217148,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 240.72,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574217208,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 240.89,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 4.78,
-		"stamp": 1574304161
+		"stamp": 1574304161,
+		"top": [
+			{
+				"time": 1574304880,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 266.31,
+				"speed": 0.46,
+				"pm10": 138.14000000000001
+			},
+			{
+				"time": 1574304940,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 266.4,
+				"speed": 0.46,
+				"pm10": 134.15
+			},
+			{
+				"time": 1574304820,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 266.23,
+				"speed": 0.46,
+				"pm10": 23.759999999999998
+			},
+			{
+				"time": 1574305000,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 266.57,
+				"speed": 0.46,
+				"pm10": 11.790000000000001
+			},
+			{
+				"time": 1574304161,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 383.14,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574304220,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.51,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574304280,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.59,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574304340,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 267.08,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574304400,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 266.99,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574304460,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 266.99,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1574389934
+		"stamp": 1574389934,
+		"top": [
+			{
+				"time": 1574389934,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 266.4,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574389994,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 251.12,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574390054,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 251.29,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574390114,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 251.12,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574390174,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 251.03,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574390234,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 251.12,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574390294,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 250.95,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574390354,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 250.95,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574390414,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 251.37,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574390473,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 251.46,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1574504613
+		"stamp": 1574504613,
+		"top": [
+			{
+				"time": 1574504613,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 315.8,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574504673,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 255.38,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574504733,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 255.55,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574504793,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 255.98,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574504853,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 256.07,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574504913,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 256.07,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574504973,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 256.15,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574505033,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 256.15,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 7.47,
-		"stamp": 1574995668
+		"stamp": 1574995668,
+		"top": [
+			{
+				"time": 1574997288,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 396.71,
+				"speed": 0.46,
+				"pm10": 79.62
+			},
+			{
+				"time": 1574996088,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 392.13,
+				"speed": 0.46,
+				"pm10": 70.31
+			},
+			{
+				"time": 1574996148,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 392.13,
+				"speed": 0.46,
+				"pm10": 29.08
+			},
+			{
+				"time": 1574997347,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 399.48,
+				"speed": 0.46,
+				"pm10": 27.75
+			},
+			{
+				"time": 1574996208,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 392.13,
+				"speed": 0.46,
+				"pm10": 11.790000000000001
+			},
+			{
+				"time": 1574996028,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 391.96,
+				"speed": 0.46,
+				"pm10": 6.470000000000001
+			},
+			{
+				"time": 1574997227,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 395.24,
+				"speed": 0.46,
+				"pm10": 5.140000000000001
+			},
+			{
+				"time": 1574995668,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 256.15,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574995728,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 391.61,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1574995788,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 391.7,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1577155166
+		"stamp": 1577155166,
+		"top": [
+			{
+				"time": 1577155166,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 399.83,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1577155226,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 420.53,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1577155286,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 420.35,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1577155346,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 420.27,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1577155406,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 420.18,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1577155466,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 420.01,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1577155526,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 420.27,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1577155586,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 420.18,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1577416164
+		"stamp": 1577416164,
+		"top": [
+			{
+				"time": 1577416164,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 420.27,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1577416224,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 266.99,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1577416284,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 266.74,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1577416344,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 265.54,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1577416404,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 266.99,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1577416464,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 270.5,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1577416524,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 268.53,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1577416584,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 273.32,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1577416644,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 273.15,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1577416704,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 271.44,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	},
 	{
 		"sensorId": "82000008",
 		"pm10": 1,
-		"stamp": 1578459426
+		"stamp": 1578459426,
+		"top": [
+			{
+				"time": 1578459426,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 276.05,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1578459486,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 158.05,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1578459546,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 158.05,
+				"speed": 0.46,
+				"pm10": 1.15
+			},
+			{
+				"time": 1578459606,
+				"latitude": 46.78575,
+				"longitude": 23.629257,
+				"altitude": 157.97,
+				"speed": 0.46,
+				"pm10": 1.15
+			}
+		]
 	}
 ]

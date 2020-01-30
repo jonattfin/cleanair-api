@@ -84,7 +84,7 @@ export default class MeasureController {
     try {
       const obj = {
         sensorIds: [
-          '8200000A',
+          '82000002',
           // '8200000A', // Sunday, June 5, 2016 4:28:15 PM - Saturday, January 25, 2020 10:09:30 AM
           // '82000008', // Sunday, June 5, 2016 4:12:42 PM - Wednesday, January 8, 2020 5:00:06 AM
           // '82000007', // Sunday, June 5, 2016 4:05:14 PM - Thursday, January 23, 2020 2:31:43 PM
@@ -100,6 +100,7 @@ export default class MeasureController {
       };
 
       const months = moment.monthsShort().map((m, i) => i + 1);
+      const type = 'pm10';
 
       for (let i = 0; i < obj.sensorIds.length; i += 1) {
         try {
@@ -124,7 +125,7 @@ export default class MeasureController {
             const data = allContent[j];
 
             try {
-              const avgData = getAverageData(sensorId, data);
+              const avgData = getAverageData(sensorId, data, type);
               result.push(...avgData);
             } catch (ex) {
               console.error(ex);
@@ -155,7 +156,7 @@ export default class MeasureController {
   }
 }
 
-function getAverageData(sensorId, data) {
+function getAverageData(sensorId, data, type) {
   const result = [];
 
   function roughScale(x, base = 10) {
@@ -174,17 +175,18 @@ function getAverageData(sensorId, data) {
       const groupedByDay = _.groupBy(monthValue, item => moment(item.time * 1000).date());
 
       _.forEach(groupedByDay, (dayValue) => {
-        const filteredDays = dayValue.filter(d => d.pm10 > 0);
+        const filteredDays = dayValue.filter(d => d[type] > 0);
 
         let sum = 0;
         // eslint-disable-next-line no-return-assign
-        filteredDays.forEach((day) => { sum += roughScale(day.pm10); });
+        filteredDays.forEach((day) => { sum += roughScale(day[type]); });
 
         if (_.size(filteredDays) > 0) {
           result.push({
             sensorId,
             pm10: parseFloat((sum / _.size(filteredDays)).toFixed(2)),
             stamp: _.first(filteredDays).time,
+            top: _.take(_.orderBy(filteredDays, `${type}`, 'desc'), 10),
           });
         }
       });
