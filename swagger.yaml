@@ -20,14 +20,14 @@ tags:
   - name: user
     description: Operations about users.
 paths:
-  /measures/last-year:
+  /measures/get-year:
     get:
       security:
       - bearerAuth: []
       tags:
         - measure
       summary: Get all the measures
-      operationId: getLastYear
+      operationId: Get year
       responses:
         '200':
           description: successful operation
@@ -83,6 +83,12 @@ paths:
         required: true
         schema:
           type: integer
+      # - name: "sensorId"
+      #   in: "path"
+      #   description: "SensorId"
+      #   required: true
+      #   schema:
+      #     type: string
       responses:
         '200':
           description: successful operation

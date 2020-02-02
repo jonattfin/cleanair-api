@@ -5,7 +5,7 @@ import { CJPulseService as apiService } from './serviceFactory';
 const knownTypes = ['pm10'];
 
 export default class RealApi {
-  static async getLastYear() {
+  static async getYearData() {
     const sensors = await apiService.get('/sensor');
 
     const sensorsUrs = [];

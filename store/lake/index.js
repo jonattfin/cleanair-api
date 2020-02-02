@@ -1,11 +1,13 @@
-import f1 from './urad/2019/avg/8200000A.json';
-import f2 from './urad/2019/avg/82000002.json';
 
-import f3 from './urad/2019/avg/82000004.json';
-import f4 from './urad/2019/avg/82000005.json';
+const files = [
+  '820001CF_pm25', '8200019C_pm25', '82000002_pm25', '82000004_pm25',
+  '82000007_pm25', '82000008_pm25', '82000141_pm25',
+];
 
-import f5 from './urad/2019/avg/82000007.json';
-import f6 from './urad/2019/avg/82000008.json';
+const data = [];
+files.forEach((file) => {
+  const fileData = require(`./urad/2019/avg/${file}.json`);
+  data.push(...fileData);
+});
 
-export const uradDataLake2019 = [...f1, ...f2, ...f3, ...f4, ...f5, ...f6];
-// export const uradDataLake2019 = [];
+export const urad2019 = data;

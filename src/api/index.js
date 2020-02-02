@@ -1,5 +1,6 @@
 
 import RealApi from './realApi';
+import MockApi from './mockApi';
 
 // import configuration from '../configuration';
 
@@ -8,10 +9,11 @@ class Api {
     this.inner = inner;
   }
 
-  getLastYear() {
-    return this.inner.getLastYear();
+  getYearData(params) {
+    return this.inner.getYearData(params);
   }
 }
 
-// const inner = configuration.get('useMock') ? MockApi : RealApi;
-export default new Api(RealApi);
+const useMock = true; // configuration.get('useMock')
+const inner = useMock ? MockApi : RealApi;
+export default new Api(inner);
