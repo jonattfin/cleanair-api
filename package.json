@@ -4,7 +4,7 @@
   "description": "Express.Js starter kit / boilerplate with Babel, hot reloading, testing, linting and a working example app built in.",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js --exec babel-node --presets babel-preset-env --plugins transform-object-rest-spread",
+    "start": "babel-node server.js --presets babel-preset-env --plugins transform-object-rest-spread",
     "start:prod": "cross-env NODE_ENV=production npm run start",
     "lint": "eslint src --color",
     "test": "jest --runInBand",

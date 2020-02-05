@@ -1,0 +1,20 @@
+[
+	{
+		"time": 1566144727,
+		"latitude": 46.75,
+		"longitude": 23.485,
+		"altitude": 322.24,
+		"timelocal": 120,
+		"temperature": 22.25,
+		"pressure": 97769,
+		"humidity": 55.01,
+		"voc": 32532,
+		"noise": 85.1,
+		"co2": 714,
+		"ch2o": 251,
+		"o3": 20,
+		"pm1": 24,
+		"pm25": 32,
+		"pm10": 59
+	}
+]

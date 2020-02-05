@@ -26,67 +26,41 @@ export default class MeasureController {
   async fetchUrad(req, res, next) {
     try {
       // eslint-disable-next-line prefer-const
-      let { month = 0, sensorId = '' } = req.params;
-      month = parseInt(month, 10);
+      let { sensorId = '8200000A' } = req.params;
 
-      if (month < 1 || month > 12) throw Error('Month is invalid');
-      if (!sensorId) throw Error('No sensor id');
-
-      console.log(`fetching month ${month} for sensor with id ${sensorId}`);
-
-      const year = 2020;
-      const diff = 1;
-
+      const secondsInDay = 84600;
+      const year = 2019;
       const now = moment();
+      const startDay = moment(`${year}-01-01`);
+      const type = 'all';
 
-      const startDay = moment(`${year - diff}-01-01`).add({ months: month - 1 });
-      const middleDay = moment(`${year - diff}-01-01`).add({ months: month });
-
-      const format = 'MMMM Do YYYY, h:mm:ss a';
-
-      console.log(`start day is ${startDay.format(format)}`);
-      console.log(`middle day is ${middleDay.format(format)}`);
-
-      const f1 = parseInt(moment.duration(now.diff(startDay)).asSeconds(), 10);
-      const f2 = parseInt(moment.duration(now.diff(middleDay)).asSeconds(), 10);
-
-      const types = ['pm25'];
-      const urls = types.map(type => `https://data.uradmonitor.com/api/v1/devices/${sensorId}/${type}/${f1}/${f2}`)
-
-      console.log(`urls are ${urls}`);
-      const sensorData = await Promise.all(urls.map(url => apiService.get(url)));
-
-      console.log('fetched data');
-
-      try {
-        const rootDir = `./store/lake/urad/${year - diff}/raw/${sensorId}`;
-        if (!fs.existsSync(rootDir)) {
-          fs.mkdirSync(rootDir);
+      for (let day = 0; day < 365; day += 1) {
+        const rootDir = `./store/lake/urad/${year}/raw/${sensorId}`;
+        const fileName = `${rootDir}/${sensorId}_${day}.json`;
+        if (fs.existsSync(fileName)) {
+          continue;
         }
 
-        for (let index = 0; index < sensorData.length; index += 1) {
-          const data = sensorData[index];
-          const type = types[index];
-          console.log(`for ${type} data is ${data.length}`);
-          fs.writeFileSync(`${rootDir}/${sensorId}_${month}_${type}.json`, JSON.stringify(data, undefined, '\t'));
-        }
+        const currentDay = moment(startDay).add({ days: day });
 
-        // file written successfully
-      } catch (err) {
-        console.error(err);
+        const start = parseInt(moment.duration(now.diff(currentDay)).asSeconds(), 10);
+        const end = start - secondsInDay;
+
+        const url = `https://data.uradmonitor.com/api/v1/devices/${sensorId}/${type}/${start}/${end}`;
+        // eslint-disable-next-line no-await-in-loop
+        const sensorData = await apiService.get(url);
+
+        try {
+          fs.writeFileSync(fileName, JSON.stringify(sensorData, undefined, '\t'));
+          console.log(`${fileName}`);
+
+          // file written successfully
+        } catch (err) {
+          console.error(err);
+        }
       }
 
-      // const avgData = getAverageData(sensorId, data);
-      // console.log('avg data is ' + avgData.length);
-
-      // try {
-      //   fs.writeFileSync(`./lake/urad/avg/${sensorId}_${month + 1}.json`, JSON.stringify(avgData, undefined, '\t'));
-      //   // file written successfully
-      // } catch (err) {
-      //   console.error(err);
-      // }
-
-      res.json({ month, done: true });
+      res.json({ done: true });
     } catch (error) {
       next(error);
     }
@@ -97,7 +71,7 @@ export default class MeasureController {
     try {
       const obj = {
         sensorIds: [
-          '820001CF',
+          '8200000A',
           // in progress
 
           // done 2
