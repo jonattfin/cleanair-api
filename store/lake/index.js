@@ -1,5 +1,5 @@
 
-function getFiles(year, justOne) {
+function getFiles(year) {
   // if (justOne) {
   //   return ['82000007'];
   // }

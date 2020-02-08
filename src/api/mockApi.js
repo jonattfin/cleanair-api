@@ -8,7 +8,7 @@ export default class MockApi {
   }
 }
 
-export function withDelay(data, delay = 1) {
+export function withDelay(data, delay = 0) {
   return new Promise((resolve) => {
     setTimeout(() => {
       resolve(data);

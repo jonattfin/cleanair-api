@@ -20,7 +20,7 @@ tags:
   - name: user
     description: Operations about users.
 paths:
-  /measures/get-year:
+  /measures/get-year/{year}:
     get:
       security:
       - bearerAuth: []
@@ -28,6 +28,13 @@ paths:
         - measure
       summary: Get all the measures
       operationId: Get year
+      parameters:
+      - name: "year"
+        in: "path"
+        description: "Year"
+        required: true
+        schema:
+          type: integer
       responses:
         '200':
           description: successful operation
@@ -44,31 +51,7 @@ paths:
                   $ref: '#/components/schemas/Measure'
         '401':
           $ref: '#/components/responses/UnauthorizedError'
-  /measures/last-year-urad:
-    get:
-      security:
-      - bearerAuth: []
-      tags:
-        - measure
-      summary: Get all the measures
-      operationId: getLastYearUrad
-      responses:
-        '200':
-          description: successful operation
-          content:
-            application/xml:
-              schema:
-                type: array
-                items:
-                  $ref: '#/components/schemas/Measure'
-            application/json:
-              schema:
-                type: array
-                items:
-                  $ref: '#/components/schemas/Measure'
-        '401':
-          $ref: '#/components/responses/UnauthorizedError'
-  /measures/fetch-urad/{month}:
+  /measures/fetch-urad:
     get:
       security:
       - bearerAuth: []
@@ -76,19 +59,6 @@ paths:
         - measure
       summary: Fetch urad
       operationId: fetchUrad
-      parameters:
-      - name: "month"
-        in: "path"
-        description: "Month"
-        required: true
-        schema:
-          type: integer
-      # - name: "sensorId"
-      #   in: "path"
-      #   description: "SensorId"
-      #   required: true
-      #   schema:
-      #     type: string
       responses:
         '200':
           description: successful operation

@@ -1,9 +1,9 @@
 import moment from 'moment';
 import fs from 'fs';
 import _ from 'lodash';
-var distance = require('gps-distance');
-
 import { UradService as apiService } from '../../api/serviceFactory';
+
+const distance = require('gps-distance');
 
 export default class MeasureController {
   constructor({ repositories, logger, autoMapper }) {
@@ -14,9 +14,10 @@ export default class MeasureController {
 
   async getYearData(req, res, next) {
     try {
-      const { year = 2020, source = 'urad' } = req.params;
+      let { year = 2020 } = req.params;
+      year = parseInt(year, 10);
 
-      const measures = await this.repos.apiRepository.getYearData({ year, source });
+      const measures = await this.repos.apiRepository.getYearData({ year });
       res.json({ measures });
     } catch (error) {
       next(error);
@@ -83,28 +84,15 @@ export default class MeasureController {
   static getSensors() {
     const obj = {
       sensorIds: [
-        82000002,
-        82000004,
-        82000005,
-        82000007,
-        82000008,
-        '8200000A',
-        82000141,
-        '8200019C',
-        '820001CF',
-
-        // '82000008', // Sunday, June 5, 2016 4:12:42 PM - Wednesday, January 8, 2020 5:00:06 AM
-        // '82000007', // Sunday, June 5, 2016 4:05:14 PM - Thursday, January 23, 2020 2:31:43 PM
-
-        // '82000005', // Sunday, June 5, 2016 3:54:46 PM - Saturday, January 25, 2020 11:37:39 AM
-        // '82000004', // Saturday, May 21, 2016 7:32:19 PM - Friday, January 24, 2020 10:34:49 AM
-
-        // '82000002', // Sunday, June 5, 2016 3:27:42 PM - Friday, January 24, 2020 10:39:59 AM
-        // '8200000A', // Sunday, June 5, 2016 4:28:15 PM - Saturday, January 25, 2020 10:09:30 AM
-
-        // '82000141', // Thursday, January 17, 2019 9:06:46 AM - Saturday, January 25, 2020 6:43:29 PM
-        // '8200019C', // Monday, May 13, 2019 3:29:36 PM - Saturday, January 25, 2020 6:42:52 PM
-        // '820001CF', // Tuesday, October 29, 2019 9:15:15 PM - Saturday, January 25, 2020 6:42:38 PM
+        82000002, // Sunday, June 5, 2016 3:27:42 PM - Friday, January 24, 2020 10:39:59 AM
+        82000004, // Saturday, May 21, 2016 7:32:19 PM - Friday, January 24, 2020 10:34:49 AM
+        82000005, // Sunday, June 5, 2016 3:54:46 PM - Saturday, January 25, 2020 11:37:39 AM
+        82000007, // Sunday, June 5, 2016 4:05:14 PM - Thursday, January 23, 2020 2:31:43 PM
+        82000008, // Sunday, June 5, 2016 4:12:42 PM - Wednesday, January 8, 2020 5:00:06 AM
+        '8200000A', // Sunday, June 5, 2016 4:28:15 PM - Saturday, January 25, 2020 10:09:30 AM
+        82000141, // Thursday, January 17, 2019 9:06:46 AM - Saturday, January 25, 2020 6:43:29 PM
+        '8200019C', // Monday, May 13, 2019 3:29:36 PM - Saturday, January 25, 2020 6:42:52 PM
+        '820001CF', // Tuesday, October 29, 2019 9:15:15 PM - Saturday, January 25, 2020 6:42:38 PM
       ],
     };
 
@@ -114,61 +102,62 @@ export default class MeasureController {
   // eslint-disable-next-line class-methods-use-this
   async processUrad(req, res, next) {
     try {
-      const year = 2020;
+      const years = [2020, 2019, 2018];
       const obj = MeasureController.getSensors();
 
-      for (let i = 0; i < obj.sensorIds.length; i += 1) {
-        try {
-          const sensorId = obj.sensorIds[i];
-          console.log(`sensorId is ` + sensorId);
+      for (let j = 0; j < years.length; j += 1) {
+        const year = years[j];
 
-          const allContent = [];
-          for (let k = 0; k < 40; k += 1) {
-            try {
-              const path = `./store/lake/urad/${year}/raw/${sensorId}/${sensorId}_${k}.json`;
-              console.log(`reading ${path}`);
+        for (let i = 0; i < obj.sensorIds.length; i += 1) {
+          try {
+            const sensorId = obj.sensorIds[i];
 
-              if (!fs.existsSync(path)) {
-                continue;
-              }
-
-              let jsonContent = [];
+            const allContent = [];
+            for (let k = 0; k < 365; k += 1) {
               try {
-                const content = fs.readFileSync(path, 'utf8');
-                jsonContent = JSON.parse(content);
+                const path = `./store/lake/urad/${year}/raw/${sensorId}/${sensorId}_${k}.json`;
+                if (!fs.existsSync(path)) {
+                  continue;
+                }
 
-                if (jsonContent.length) {
-                  console.log(`file ${path} has ${jsonContent.length}`);
-                  allContent.push(jsonContent);
+                let jsonContent = [];
+                try {
+                  const content = fs.readFileSync(path, 'utf8');
+                  jsonContent = JSON.parse(content);
+
+                  if (jsonContent.length) {
+                    console.log(`file ${path} has ${jsonContent.length}`);
+                    allContent.push(jsonContent);
+                  }
+                } catch (ex) {
+                  console.log(`Error in file ${path}`);
+                  console.error(ex);
                 }
               } catch (ex) {
-                console.log(`Error in file ${path}`);
                 console.error(ex);
               }
-            } catch (ex) {
-              console.error(ex);
             }
-          }
 
-          const result = [];
-          for (let j = 0; j < allContent.length; j += 1) {
-            const data = allContent[j];
+            const result = [];
+            for (let t = 0; t < allContent.length; t += 1) {
+              const data = allContent[t];
+
+              try {
+                const avgData = getAverageData(sensorId, data);
+                result.push(...avgData);
+              } catch (ex) {
+                console.error(ex);
+              }
+            }
 
             try {
-              const avgData = getAverageData(sensorId, data);
-              result.push(...avgData);
+              fs.writeFileSync(`./store/lake/urad/${year}/avg/${sensorId}.json`, JSON.stringify(result, undefined, '\t'));
             } catch (ex) {
               console.error(ex);
             }
-          }
-
-          try {
-            fs.writeFileSync(`./store/lake/urad/${year}/avg/${sensorId}.json`, JSON.stringify(result, undefined, '\t'));
           } catch (ex) {
             console.error(ex);
           }
-        } catch (ex) {
-          console.error(ex);
         }
       }
 

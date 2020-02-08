@@ -14,10 +14,10 @@ const controller = new MeasuresController({
 
 // routes
 
-router.route('/get-year')
+router.route('/get-year/:year')
   .get((req, res, next) => controller.getYearData(req, res, next));
 
-router.route('/fetch-urad/:month')
+router.route('/fetch-urad')
   .get((req, res, next) => controller.fetchUrad(req, res, next));
 
 router.route('/process-urad')
