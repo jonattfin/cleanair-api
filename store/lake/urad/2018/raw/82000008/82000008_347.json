@@ -1,0 +1,38 @@
+[
+	{
+		"time": 1544755743,
+		"latitude": 46.78575,
+		"longitude": 23.629257,
+		"altitude": 320.1,
+		"speed": 0.46,
+		"timelocal": 120,
+		"temperature": -2.45,
+		"pressure": 98335,
+		"humidity": 72.41,
+		"voc": 182086,
+		"co2": 726,
+		"ch2o": 10,
+		"pm25": 0,
+		"cpm": 8,
+		"voltage": 378,
+		"duty": 174
+	},
+	{
+		"time": 1544755803,
+		"latitude": 46.78575,
+		"longitude": 23.629257,
+		"altitude": 320.1,
+		"speed": 0.46,
+		"timelocal": 180,
+		"temperature": -2.2300000000000004,
+		"pressure": 98285,
+		"humidity": 72.2,
+		"voc": 181451,
+		"co2": 721,
+		"ch2o": 0,
+		"pm25": 0,
+		"cpm": 15,
+		"voltage": 378,
+		"duty": 174
+	}
+]

@@ -1,6 +1,7 @@
 import moment from 'moment';
 import fs from 'fs';
 import _ from 'lodash';
+var distance = require('gps-distance');
 
 import { UradService as apiService } from '../../api/serviceFactory';
 
@@ -13,7 +14,7 @@ export default class MeasureController {
 
   async getYearData(req, res, next) {
     try {
-      const { year = 2019, source = 'pulse' } = req.params;
+      const { year = 2020, source = 'urad' } = req.params;
 
       const measures = await this.repos.apiRepository.getYearData({ year, source });
       res.json({ measures });
@@ -26,35 +27,48 @@ export default class MeasureController {
   async fetchUrad(req, res, next) {
     try {
       // eslint-disable-next-line prefer-const
-      let { sensorId = '8200000A' } = req.params;
+      const year = 2020;
+      const obj = MeasureController.getSensors();
 
       const secondsInDay = 84600;
-      const year = 2019;
       const now = moment();
       const startDay = moment(`${year}-01-01`);
       const type = 'all';
 
-      for (let day = 0; day < 365; day += 1) {
-        const rootDir = `./store/lake/urad/${year}/raw/${sensorId}`;
-        const fileName = `${rootDir}/${sensorId}_${day}.json`;
-        if (fs.existsSync(fileName)) {
-          continue;
-        }
-
-        const currentDay = moment(startDay).add({ days: day });
-
-        const start = parseInt(moment.duration(now.diff(currentDay)).asSeconds(), 10);
-        const end = start - secondsInDay;
-
-        const url = `https://data.uradmonitor.com/api/v1/devices/${sensorId}/${type}/${start}/${end}`;
-        // eslint-disable-next-line no-await-in-loop
-        const sensorData = await apiService.get(url);
-
+      for (let i = 0; i < obj.sensorIds.length; i += 1) {
         try {
-          fs.writeFileSync(fileName, JSON.stringify(sensorData, undefined, '\t'));
-          console.log(`${fileName}`);
+          const sensorId = obj.sensorIds[i];
+          console.log(`sensorId is ` + sensorId);
 
-          // file written successfully
+          for (let day = 0; day < 40; day += 1) {
+            const rootDir = `./store/lake/urad/${year}/raw/${sensorId}`;
+            if (!fs.existsSync(rootDir)) {
+              fs.mkdirSync(rootDir);
+            }
+
+            const fileName = `${rootDir}/${sensorId}_${day}.json`;
+            if (fs.existsSync(fileName)) {
+              continue;
+            }
+
+            const currentDay = moment(startDay).add({ days: day });
+
+            const start = parseInt(moment.duration(now.diff(currentDay)).asSeconds(), 10);
+            const end = start - secondsInDay;
+
+            const url = `https://data.uradmonitor.com/api/v1/devices/${sensorId}/${type}/${start}/${end}`;
+            // eslint-disable-next-line no-await-in-loop
+            const sensorData = await apiService.get(url);
+
+            try {
+              fs.writeFileSync(fileName, JSON.stringify(sensorData, undefined, '\t'));
+              console.log(`${fileName}`);
+
+              // file written successfully
+            } catch (err) {
+              console.error(err);
+            }
+          }
         } catch (err) {
           console.error(err);
         }
@@ -66,43 +80,42 @@ export default class MeasureController {
     }
   }
 
+  static getSensors() {
+    const obj = {
+      sensorIds: [
+        82000002,
+        82000004,
+        82000005,
+        82000007,
+        82000008,
+        '8200000A',
+        82000141,
+        '8200019C',
+        '820001CF',
+
+        // '82000008', // Sunday, June 5, 2016 4:12:42 PM - Wednesday, January 8, 2020 5:00:06 AM
+        // '82000007', // Sunday, June 5, 2016 4:05:14 PM - Thursday, January 23, 2020 2:31:43 PM
+
+        // '82000005', // Sunday, June 5, 2016 3:54:46 PM - Saturday, January 25, 2020 11:37:39 AM
+        // '82000004', // Saturday, May 21, 2016 7:32:19 PM - Friday, January 24, 2020 10:34:49 AM
+
+        // '82000002', // Sunday, June 5, 2016 3:27:42 PM - Friday, January 24, 2020 10:39:59 AM
+        // '8200000A', // Sunday, June 5, 2016 4:28:15 PM - Saturday, January 25, 2020 10:09:30 AM
+
+        // '82000141', // Thursday, January 17, 2019 9:06:46 AM - Saturday, January 25, 2020 6:43:29 PM
+        // '8200019C', // Monday, May 13, 2019 3:29:36 PM - Saturday, January 25, 2020 6:42:52 PM
+        // '820001CF', // Tuesday, October 29, 2019 9:15:15 PM - Saturday, January 25, 2020 6:42:38 PM
+      ],
+    };
+
+    return obj;
+  }
+
   // eslint-disable-next-line class-methods-use-this
   async processUrad(req, res, next) {
     try {
-      const obj = {
-        sensorIds: [
-          '8200000A',
-          // in progress
-
-          // done 2
-          // 82000007
-          // 8200000A
-          // 82000008
-          // 82000005
-          // 82000004
-          // 82000002
-          // 82000141
-          // 8200019C
-          // 820001CF
-
-          // done
-
-          // '8200000A', // Sunday, June 5, 2016 4:28:15 PM - Saturday, January 25, 2020 10:09:30 AM
-          // '82000008', // Sunday, June 5, 2016 4:12:42 PM - Wednesday, January 8, 2020 5:00:06 AM
-          // '82000007', // Sunday, June 5, 2016 4:05:14 PM - Thursday, January 23, 2020 2:31:43 PM
-          // '82000005', // Sunday, June 5, 2016 3:54:46 PM - Saturday, January 25, 2020 11:37:39 AM
-          // '82000004', // Saturday, May 21, 2016 7:32:19 PM - Friday, January 24, 2020 10:34:49 AM
-          // '82000002', // Sunday, June 5, 2016 3:27:42 PM - Friday, January 24, 2020 10:39:59 AM
-          // '8200000A', // Sunday, June 5, 2016 4:28:15 PM - Saturday, January 25, 2020 10:09:30 AM
-          // '82000141', // Thursday, January 17, 2019 9:06:46 AM - Saturday, January 25, 2020 6:43:29 PM
-          // '8200019C', // Monday, May 13, 2019 3:29:36 PM - Saturday, January 25, 2020 6:42:52 PM
-          // '820001CF', // Tuesday, October 29, 2019 9:15:15 PM - Saturday, January 25, 2020 6:42:38 PM
-        ],
-      };
-
-      const months = moment.monthsShort().map((m, i) => i + 1);
-      const type = 'pm25';
-      const year = 2019;
+      const year = 2020;
+      const obj = MeasureController.getSensors();
 
       for (let i = 0; i < obj.sensorIds.length; i += 1) {
         try {
@@ -110,9 +123,9 @@ export default class MeasureController {
           console.log(`sensorId is ` + sensorId);
 
           const allContent = [];
-          for (let k = 0; k < months.length; k += 1) {
+          for (let k = 0; k < 40; k += 1) {
             try {
-              const path = `./store/lake/urad/${year}/raw/${sensorId}/${sensorId}_${months[k]}_${type}.json`;
+              const path = `./store/lake/urad/${year}/raw/${sensorId}/${sensorId}_${k}.json`;
               console.log(`reading ${path}`);
 
               if (!fs.existsSync(path)) {
@@ -142,21 +155,15 @@ export default class MeasureController {
             const data = allContent[j];
 
             try {
-              const avgData = getAverageData(sensorId, data, type);
+              const avgData = getAverageData(sensorId, data);
               result.push(...avgData);
             } catch (ex) {
               console.error(ex);
             }
           }
 
-          const ordered = _.orderBy(result, 'stamp')
-            .map((x) => {
-              return x;
-              //return { sensorId: x.sensorId, stamp: moment(x.stamp * 1000).toISOString(), pm10: x.pm10 };
-            });
-
           try {
-            fs.writeFileSync(`./store/lake/urad/${year}/avg/${sensorId}_${type}.json`, JSON.stringify(ordered, undefined, '\t'));
+            fs.writeFileSync(`./store/lake/urad/${year}/avg/${sensorId}.json`, JSON.stringify(result, undefined, '\t'));
           } catch (ex) {
             console.error(ex);
           }
@@ -179,9 +186,25 @@ function roughScale(x, base = 10) {
   return parsed;
 }
 
-function getAverageData(sensorId, data, type) {
+function isBanned(dataItem) {
+  const bannedgps = [
+    { lat: 46.7875, long: 23.5779 },
+    { lat: 46.7856, long: 23.6283 },
+    { lat: 46.76494, long: 23.54891 },
+    { lat: 46.75087, long: 23.57782 },
+    { lat: 46.73529, long: 23.58826 },
+    { lat: 46.74993, long: 23.48422 },
+  ];
+
+  return bannedgps.some((item) => {
+    const d = distance(item.lat, item.long, dataItem.latitude, dataItem.longitude);
+    return (d < 0.3);
+  });
+}
+
+function getAverageData(sensorId, data) {
   const result = [];
-  const maxDay = 50;
+  const knownTypes = ["pm25", "temperature", "humidity", "voc", "ch2o"];
 
   const groupedByYear = _.groupBy(data, item => moment(item.time * 1000).year());
 
@@ -193,46 +216,49 @@ function getAverageData(sensorId, data, type) {
       const groupedByDay = _.groupBy(monthValue, item => moment(item.time * 1000).date());
 
       _.forEach(groupedByDay, (dayValue) => {
-        const filteredDays = dayValue.filter(d => d[type] > 0);
+        const obj = {};
+        _.forEach(knownTypes, (type) => {
+          const filteredDays = dayValue.filter(d => d[type] > 0 && !isBanned(d));
 
-        let sum = 0;
-        // eslint-disable-next-line no-return-assign
-        filteredDays.forEach((day) => { sum += roughScale(day[type]); });
+          let sum = 0;
+          // eslint-disable-next-line no-return-assign
+          filteredDays.forEach((day) => { sum += roughScale(day[type]); });
 
-        if (_.size(filteredDays) > 0) {
-          result.push({
-            sensorId,
-            [type]: parseFloat((sum / _.size(filteredDays)).toFixed(2)),
-            stamp: _.first(filteredDays).time,
-            top: _.take(_.orderBy(filteredDays.filter(day => day[type] > maxDay), `${type}`, 'desc'), 5),
-          });
-        }
+          // const minValue = 25;
+
+          if (_.size(filteredDays) > 0) {
+            obj[type] = {
+              value: parseFloat((sum / _.size(filteredDays)).toFixed(2)),
+              top: _.take(_.orderBy(filteredDays.filter(day => day[type]), `${type}`, 'desc'), 50),
+              stamp: _.first(filteredDays).time,
+            };
+
+            // if (type === 'pm25') {
+            //   const avgValue = parseFloat(sum / _.size(filteredDays));
+
+            //   if (avgValue > minValue) {
+            //     // the locations of the garages
+
+            //     const top = _.orderBy(filteredDays.filter(day => day[type]), `${type}`, 'desc');
+
+            //     obj[type] = {
+            //       value: avgValue.toFixed(2),
+            //       top: _.take(top, 50),
+            //       stamp: _.first(filteredDays).time,
+            //     };
+            //   }
+            // } else if (obj.pm25 && obj.pm25.value > minValue) {
+            //   obj[type] = {
+            //     value: parseFloat((sum / _.size(filteredDays)).toFixed(2)),
+            //     top: [],
+            //     stamp: _.first(filteredDays).time,
+            //   };
+            // }
+          }
+        });
+
+        result.push({ sensorId, obj });
       });
-    });
-  });
-
-  return _.orderBy(result, type, 'desc');
-}
-
-function getAverageDataAsObject(sensorId, data) {
-  const result = {};
-
-  const groupedByYear = _.groupBy(data, item => moment(item.time * 1000).year());
-
-  _.forEach(groupedByYear, (yearValue, yearKey) => {
-    if (!_.has(result, yearKey)) {
-      result[yearKey] = {};
-    }
-
-    const groupedByMonth = _.groupBy(yearValue, item => moment(item.time * 1000).month());
-
-    _.forEach(groupedByMonth, (monthValue, monthKey) => {
-      if (!_.has(result[yearKey], monthKey)) {
-        result[yearKey][monthKey] = {};
-      }
-
-      const groupedByDay = _.groupBy(monthValue, item => moment(item.time * 1000).date());
-      result[yearKey][monthKey] = groupedByDay;
     });
   });
 

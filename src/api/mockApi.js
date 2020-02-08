@@ -1,8 +1,9 @@
-import { urad2019 } from '../../store/lake';
+import getData from '../../store/lake';
 
 export default class MockApi {
   static async getYearData(params) {
-    const data = await withDelay(urad2019);
+    const { year } = params;
+    const data = await withDelay(getData(year));
     return data;
   }
 }

@@ -1,13 +1,30 @@
 
-const files = [
-  '820001CF_pm25', '8200019C_pm25', '82000002_pm25', '82000004_pm25',
-  '82000007_pm25', '82000008_pm25', '82000141_pm25',
-];
+function getFiles(year, justOne) {
+  // if (justOne) {
+  //   return ['82000007'];
+  // }
 
-const data = [];
-files.forEach((file) => {
-  const fileData = require(`./urad/2019/avg/${file}.json`);
-  data.push(...fileData);
-});
+  if (year === 2019 || year === 2020) {
+    return [
+      '820001CF', '8200000A', '8200019C', '82000002', '82000004', '82000005', '82000007', '82000008', '82000141',
+    ];
+  }
 
-export const urad2019 = data;
+  return [
+    '8200000A', '82000002', '82000004', '82000005', '82000007', '82000008',
+  ];
+}
+
+export default function getData(year) {
+  const files = getFiles(year, true);
+
+  const data = [];
+  files.forEach((file) => {
+    const fileName = `./urad/${year}/avg/${file}.json`;
+    console.log(`requesting ${fileName}`);
+
+    const fileData = require(fileName);
+    data.push(...fileData);
+  });
+  return data;
+}

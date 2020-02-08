@@ -30,6 +30,7 @@
     "express-cache-controller": "^1.1.0",
     "express-validator": "^5.3.1",
     "firebase-admin": "^6.3.0",
+    "gps-distance": "^0.0.4",
     "helmet": "^3.13.0",
     "jsonwebtoken": "^8.3.0",
     "lodash": "^4.17.15",
