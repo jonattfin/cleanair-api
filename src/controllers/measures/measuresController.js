@@ -177,7 +177,6 @@ function roughScale(x, base = 10) {
 
 function isBanned(dataItem) {
   const bannedgps = [
-    { lat: 46.7875, long: 23.5779 },
     { lat: 46.7856, long: 23.6283 },
     { lat: 46.76494, long: 23.54891 },
     { lat: 46.75087, long: 23.57782 },
@@ -207,18 +206,22 @@ function getAverageData(sensorId, data) {
       _.forEach(groupedByDay, (dayValue) => {
         const obj = {};
         _.forEach(knownTypes, (type) => {
-          const filteredDays = dayValue.filter(d => d[type] > 0 && !isBanned(d));
+          const filteredDays = dayValue.filter(d => !isBanned(d));
 
           let sum = 0;
           // eslint-disable-next-line no-return-assign
           filteredDays.forEach((day) => { sum += roughScale(day[type]); });
 
-          // const minValue = 25;
+          const minValue = 25;
+          let value = parseFloat((sum / _.size(filteredDays)).toFixed(2));
+          if (value === 0) {
+            value = 99;
+          }
 
           if (_.size(filteredDays) > 0) {
             obj[type] = {
-              value: parseFloat((sum / _.size(filteredDays)).toFixed(2)),
-              top: _.take(_.orderBy(filteredDays.filter(day => day[type]), `${type}`, 'desc'), 50),
+              value,
+              top: _.take(_.orderBy(filteredDays.filter(day => day[type] > minValue), `${type}`, 'desc'), 50),
               stamp: _.first(filteredDays).time,
             };
 
