@@ -1,0 +1,41 @@
+[
+	{
+		"time": 1584523369,
+		"latitude": 45.7537,
+		"longitude": 21.2257,
+		"altitude": -38.15,
+		"timelocal": 60,
+		"temperature": 18.43,
+		"pressure": 101784,
+		"humidity": 44.81,
+		"pm1": 11.5,
+		"pm25": 19,
+		"pm10": 23.5
+	},
+	{
+		"time": 1584523429,
+		"latitude": 45.7537,
+		"longitude": 21.2257,
+		"altitude": -37.48,
+		"timelocal": 120,
+		"temperature": 19.37,
+		"pressure": 101776,
+		"humidity": 42.82,
+		"pm1": 10,
+		"pm25": 18,
+		"pm10": 23.5
+	},
+	{
+		"time": 1584523489,
+		"latitude": 45.7537,
+		"longitude": 21.2257,
+		"altitude": -37.56,
+		"timelocal": 180,
+		"temperature": 20.19,
+		"pressure": 101777,
+		"humidity": 40.72,
+		"pm1": 10,
+		"pm25": 18,
+		"pm10": 23
+	}
+]

@@ -1,4 +1,4 @@
-import getData from '../../store/lake';
+import { getData } from '../../store';
 
 export default class MockApi {
   static async getYearData(params) {

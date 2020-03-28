@@ -1,0 +1,1168 @@
+[
+	{
+		"sensorId": "160000D3",
+		"obj": {
+			"pm25": {
+				"value": 31.4,
+				"stamp": 1581960585,
+				"top": [
+					{
+						"time": 1581960585,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 38.37,
+						"timelocal": 60,
+						"temperature": 16.07,
+						"pressure": 100865,
+						"humidity": 57.3,
+						"pm1": 38,
+						"pm25": 73,
+						"pm10": 86.5
+					},
+					{
+						"time": 1581973170,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 39.21,
+						"timelocal": 3300,
+						"temperature": 21.79,
+						"pressure": 100855,
+						"humidity": 40.76,
+						"pm1": 26.5,
+						"pm25": 44.5,
+						"pm10": 56
+					},
+					{
+						"time": 1581973410,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 39.04,
+						"timelocal": 3540,
+						"temperature": 21.62,
+						"pressure": 100857,
+						"humidity": 41.13,
+						"pm1": 26.5,
+						"pm25": 41.5,
+						"pm10": 51.5
+					},
+					{
+						"time": 1581972150,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 39.46,
+						"timelocal": 2280,
+						"temperature": 21.7,
+						"pressure": 100852,
+						"humidity": 42,
+						"pm1": 24,
+						"pm25": 40.5,
+						"pm10": 49
+					},
+					{
+						"time": 1581972990,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 39.21,
+						"timelocal": 3120,
+						"temperature": 21.81,
+						"pressure": 100855,
+						"humidity": 41.45,
+						"pm1": 26,
+						"pm25": 40.5,
+						"pm10": 58
+					}
+				]
+			},
+			"temperature": {
+				"value": 20.7,
+				"stamp": 1581960585,
+				"top": []
+			},
+			"humidity": {
+				"value": 44.14,
+				"stamp": 1581960585,
+				"top": [
+					{
+						"time": 1581960585,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 38.37,
+						"timelocal": 60,
+						"temperature": 16.07,
+						"pressure": 100865,
+						"humidity": 57.3,
+						"pm1": 38,
+						"pm25": 73,
+						"pm10": 86.5
+					},
+					{
+						"time": 1581969930,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 37.53,
+						"timelocal": 60,
+						"temperature": 16.67,
+						"pressure": 100875,
+						"humidity": 56.26,
+						"pm1": 18.5,
+						"pm25": 29,
+						"pm10": 45
+					},
+					{
+						"time": 1581968225,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 38.95,
+						"timelocal": 60,
+						"temperature": 15.3,
+						"pressure": 100858,
+						"humidity": 55.34,
+						"pm1": 20.5,
+						"pm25": 33.5,
+						"pm10": 45
+					},
+					{
+						"time": 1581969990,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 37.45,
+						"timelocal": 120,
+						"temperature": 17.49,
+						"pressure": 100876,
+						"humidity": 54.11,
+						"pm1": 18,
+						"pm25": 30,
+						"pm10": 41
+					},
+					{
+						"time": 1581970050,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 37.28,
+						"timelocal": 180,
+						"temperature": 18.14,
+						"pressure": 100878,
+						"humidity": 53.01,
+						"pm1": 16,
+						"pm25": 27.5,
+						"pm10": 35
+					}
+				]
+			}
+		}
+	},
+	{
+		"sensorId": "160000D3",
+		"obj": {
+			"pm25": {
+				"value": 15.46,
+				"stamp": 1581977010,
+				"top": [
+					{
+						"time": 1582017270,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 21.5,
+						"timelocal": 47400,
+						"temperature": 21.29,
+						"pressure": 101067,
+						"humidity": 40.17,
+						"pm1": 44.5,
+						"pm25": 52.5,
+						"pm10": 66
+					},
+					{
+						"time": 1581977130,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 40.29,
+						"timelocal": 7260,
+						"temperature": 22.4,
+						"pressure": 100842,
+						"humidity": 42.03,
+						"pm1": 37,
+						"pm25": 51,
+						"pm10": 66
+					},
+					{
+						"time": 1581979110,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 40.63,
+						"timelocal": 9240,
+						"temperature": 22.41,
+						"pressure": 100838,
+						"humidity": 41.89,
+						"pm1": 25,
+						"pm25": 46,
+						"pm10": 67
+					},
+					{
+						"time": 1581989970,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 43.47,
+						"timelocal": 20100,
+						"temperature": 22.03,
+						"pressure": 100804,
+						"humidity": 41.44,
+						"pm1": 22,
+						"pm25": 36,
+						"pm10": 49
+					},
+					{
+						"time": 1582043370,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 14.08,
+						"timelocal": 73500,
+						"temperature": 18.48,
+						"pressure": 101156,
+						"humidity": 42.49,
+						"pm1": 18,
+						"pm25": 32.5,
+						"pm10": 39.5
+					}
+				]
+			},
+			"temperature": {
+				"value": 21.07,
+				"stamp": 1581977010,
+				"top": []
+			},
+			"humidity": {
+				"value": 40.76,
+				"stamp": 1581977010,
+				"top": [
+					{
+						"time": 1582044693,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 11.66,
+						"timelocal": 74820,
+						"temperature": 18.66,
+						"pressure": 101185,
+						"humidity": 43.08,
+						"pm1": 11.5,
+						"pm25": 16,
+						"pm10": 24.5
+					},
+					{
+						"time": 1582044750,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 12,
+						"timelocal": 74880,
+						"temperature": 18.79,
+						"pressure": 101181,
+						"humidity": 43.05,
+						"pm1": 18,
+						"pm25": 29,
+						"pm10": 46
+					},
+					{
+						"time": 1582044630,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 11.83,
+						"timelocal": 74760,
+						"temperature": 18.54,
+						"pressure": 101183,
+						"humidity": 43.03,
+						"pm1": 10.5,
+						"pm25": 16,
+						"pm10": 22.5
+					},
+					{
+						"time": 1582044810,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 11.5,
+						"timelocal": 74940,
+						"temperature": 18.9,
+						"pressure": 101187,
+						"humidity": 43.02,
+						"pm1": 10.5,
+						"pm25": 15.5,
+						"pm10": 23.5
+					},
+					{
+						"time": 1582044870,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 11,
+						"timelocal": 75000,
+						"temperature": 19.01,
+						"pressure": 101193,
+						"humidity": 42.98,
+						"pm1": 9.5,
+						"pm25": 15,
+						"pm10": 24.5
+					}
+				]
+			}
+		}
+	},
+	{
+		"sensorId": "160000D3",
+		"obj": {
+			"pm25": {
+				"value": 4.65,
+				"stamp": 1582063410,
+				"top": [
+					{
+						"time": 1582098090,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 16.66,
+						"timelocal": 128220,
+						"temperature": 21.47,
+						"pressure": 101125,
+						"humidity": 37.82,
+						"pm1": 42.5,
+						"pm25": 77,
+						"pm10": 95
+					},
+					{
+						"time": 1582098150,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 16.75,
+						"timelocal": 128280,
+						"temperature": 21.44,
+						"pressure": 101124,
+						"humidity": 37.69,
+						"pm1": 31,
+						"pm25": 57,
+						"pm10": 68
+					},
+					{
+						"time": 1582098210,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 17,
+						"timelocal": 128340,
+						"temperature": 21.43,
+						"pressure": 101121,
+						"humidity": 37.8,
+						"pm1": 27,
+						"pm25": 51.5,
+						"pm10": 64.5
+					},
+					{
+						"time": 1582098270,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 16.83,
+						"timelocal": 128400,
+						"temperature": 21.38,
+						"pressure": 101123,
+						"humidity": 37.7,
+						"pm1": 21.5,
+						"pm25": 35,
+						"pm10": 46.5
+					},
+					{
+						"time": 1582098330,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 16.92,
+						"timelocal": 128460,
+						"temperature": 21.37,
+						"pressure": 101122,
+						"humidity": 38.35,
+						"pm1": 21,
+						"pm25": 34,
+						"pm10": 44
+					}
+				]
+			},
+			"temperature": {
+				"value": 21.39,
+				"stamp": 1582063410,
+				"top": []
+			},
+			"humidity": {
+				"value": 40.02,
+				"stamp": 1582063410,
+				"top": [
+					{
+						"time": 1582094670,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 15.41,
+						"timelocal": 124800,
+						"temperature": 22.01,
+						"pressure": 101140,
+						"humidity": 42.26,
+						"pm1": 0.5,
+						"pm25": 1,
+						"pm10": 7.5
+					},
+					{
+						"time": 1582094730,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 15.25,
+						"timelocal": 124860,
+						"temperature": 22.02,
+						"pressure": 101142,
+						"humidity": 42.26,
+						"pm1": 0.5,
+						"pm25": 1,
+						"pm10": 7
+					},
+					{
+						"time": 1582094790,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 14.83,
+						"timelocal": 124920,
+						"temperature": 22.01,
+						"pressure": 101147,
+						"humidity": 42.26,
+						"pm1": 0,
+						"pm25": 0.5,
+						"pm10": 7
+					},
+					{
+						"time": 1582094850,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 15.41,
+						"timelocal": 124980,
+						"temperature": 22.02,
+						"pressure": 101140,
+						"humidity": 42.26,
+						"pm1": 0.5,
+						"pm25": 1,
+						"pm10": 7
+					},
+					{
+						"time": 1582094550,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 15.66,
+						"timelocal": 124680,
+						"temperature": 22.01,
+						"pressure": 101137,
+						"humidity": 42.25,
+						"pm1": 1,
+						"pm25": 2,
+						"pm10": 8
+					}
+				]
+			}
+		}
+	},
+	{
+		"sensorId": "160000D3",
+		"obj": {
+			"pm25": {
+				"value": 3.71,
+				"stamp": 1582149810,
+				"top": []
+			},
+			"temperature": {
+				"value": 21.2,
+				"stamp": 1582149810,
+				"top": []
+			},
+			"humidity": {
+				"value": 39.64,
+				"stamp": 1582149810,
+				"top": [
+					{
+						"time": 1582184610,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 28.76,
+						"timelocal": 214740,
+						"temperature": 16.01,
+						"pressure": 100980,
+						"humidity": 41.24,
+						"pm1": 2,
+						"pm25": 6,
+						"pm10": 13
+					},
+					{
+						"time": 1582223490,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 11.5,
+						"timelocal": 253620,
+						"temperature": 22.14,
+						"pressure": 101187,
+						"humidity": 41.18,
+						"pm1": 0,
+						"pm25": 0,
+						"pm10": 6.5
+					},
+					{
+						"time": 1582223553,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 11.16,
+						"timelocal": 253680,
+						"temperature": 22.13,
+						"pressure": 101191,
+						"humidity": 41.13,
+						"pm1": 1,
+						"pm25": 1.5,
+						"pm10": 8
+					},
+					{
+						"time": 1582184670,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 28.76,
+						"timelocal": 214800,
+						"temperature": 16.27,
+						"pressure": 100980,
+						"humidity": 41.12,
+						"pm1": 3.5,
+						"pm25": 5.5,
+						"pm10": 13
+					},
+					{
+						"time": 1582223610,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 11,
+						"timelocal": 253740,
+						"temperature": 22.14,
+						"pressure": 101193,
+						"humidity": 41.11,
+						"pm1": 0.5,
+						"pm25": 1.5,
+						"pm10": 7.5
+					}
+				]
+			}
+		}
+	},
+	{
+		"sensorId": "160000D3",
+		"obj": {
+			"pm25": {
+				"value": 6.22,
+				"stamp": 1582236210,
+				"top": [
+					{
+						"time": 1582271731,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 18.17,
+						"timelocal": 301860,
+						"temperature": 19.18,
+						"pressure": 101107,
+						"humidity": 36.62,
+						"pm1": 26,
+						"pm25": 47,
+						"pm10": 64
+					},
+					{
+						"time": 1582308090,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 3.41,
+						"timelocal": 338220,
+						"temperature": 19.37,
+						"pressure": 101284,
+						"humidity": 41.45,
+						"pm1": 23.5,
+						"pm25": 44,
+						"pm10": 66
+					},
+					{
+						"time": 1582307970,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 3.08,
+						"timelocal": 338100,
+						"temperature": 19.08,
+						"pressure": 101288,
+						"humidity": 41.58,
+						"pm1": 19.5,
+						"pm25": 30.5,
+						"pm10": 43.5
+					},
+					{
+						"time": 1582270290,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 14.41,
+						"timelocal": 300420,
+						"temperature": 21.3,
+						"pressure": 101152,
+						"humidity": 37.06,
+						"pm1": 16.5,
+						"pm25": 26,
+						"pm10": 33.5
+					},
+					{
+						"time": 1582271971,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 17.83,
+						"timelocal": 302100,
+						"temperature": 18.9,
+						"pressure": 101111,
+						"humidity": 36.69,
+						"pm1": 16,
+						"pm25": 26,
+						"pm10": 33
+					}
+				]
+			},
+			"temperature": {
+				"value": 21.2,
+				"stamp": 1582236210,
+				"top": []
+			},
+			"humidity": {
+				"value": 39.42,
+				"stamp": 1582236210,
+				"top": [
+					{
+						"time": 1582312306,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": -1.75,
+						"timelocal": 60,
+						"temperature": 17.6,
+						"pressure": 101346,
+						"humidity": 49.84,
+						"pm1": 2,
+						"pm25": 4.5,
+						"pm10": 12
+					},
+					{
+						"time": 1582307431,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 3.5,
+						"timelocal": 337560,
+						"temperature": 17.34,
+						"pressure": 101283,
+						"humidity": 42.04,
+						"pm1": 1,
+						"pm25": 1.5,
+						"pm10": 10.5
+					},
+					{
+						"time": 1582307491,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 3.66,
+						"timelocal": 337620,
+						"temperature": 17.55,
+						"pressure": 101281,
+						"humidity": 41.95,
+						"pm1": 1.5,
+						"pm25": 1.5,
+						"pm10": 9
+					},
+					{
+						"time": 1582307370,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 4.16,
+						"timelocal": 337500,
+						"temperature": 17.07,
+						"pressure": 101275,
+						"humidity": 41.86,
+						"pm1": 1,
+						"pm25": 2,
+						"pm10": 9
+					},
+					{
+						"time": 1582307730,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": 3.25,
+						"timelocal": 337860,
+						"temperature": 18.37,
+						"pressure": 101286,
+						"humidity": 41.85,
+						"pm1": 1,
+						"pm25": 1,
+						"pm10": 7.5
+					}
+				]
+			}
+		}
+	},
+	{
+		"sensorId": "160000D3",
+		"obj": {
+			"pm25": {
+				"value": 3,
+				"stamp": 1582391823,
+				"top": []
+			},
+			"temperature": {
+				"value": 13,
+				"stamp": 1582391823,
+				"top": []
+			},
+			"humidity": {
+				"value": 63,
+				"stamp": 1582391823,
+				"top": [
+					{
+						"time": 1582391823,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": -40.97,
+						"timelocal": 60,
+						"temperature": 13.29,
+						"pressure": 101818,
+						"humidity": 63.98,
+						"pm1": 2,
+						"pm25": 3,
+						"pm10": 9
+					}
+				]
+			}
+		}
+	},
+	{
+		"sensorId": "160000D3",
+		"obj": {
+			"pm25": {
+				"value": 40,
+				"stamp": 1584476249,
+				"top": [
+					{
+						"time": 1584476249,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": -24.62,
+						"timelocal": 60,
+						"temperature": 19.04,
+						"pressure": 101621,
+						"humidity": 38.11,
+						"pm1": 20.5,
+						"pm25": 41.5,
+						"pm10": 50
+					},
+					{
+						"time": 1584476309,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": -24.28,
+						"timelocal": 120,
+						"temperature": 19.57,
+						"pressure": 101617,
+						"humidity": 37.41,
+						"pm1": 19.5,
+						"pm25": 39.5,
+						"pm10": 46.5
+					}
+				]
+			},
+			"temperature": {
+				"value": 19,
+				"stamp": 1584476249,
+				"top": []
+			},
+			"humidity": {
+				"value": 37.5,
+				"stamp": 1584476249,
+				"top": [
+					{
+						"time": 1584476249,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": -24.62,
+						"timelocal": 60,
+						"temperature": 19.04,
+						"pressure": 101621,
+						"humidity": 38.11,
+						"pm1": 20.5,
+						"pm25": 41.5,
+						"pm10": 50
+					},
+					{
+						"time": 1584476309,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": -24.28,
+						"timelocal": 120,
+						"temperature": 19.57,
+						"pressure": 101617,
+						"humidity": 37.41,
+						"pm1": 19.5,
+						"pm25": 39.5,
+						"pm10": 46.5
+					}
+				]
+			}
+		}
+	},
+	{
+		"sensorId": "160000D3",
+		"obj": {
+			"pm25": {
+				"value": 18.33,
+				"stamp": 1584523369,
+				"top": []
+			},
+			"temperature": {
+				"value": 19,
+				"stamp": 1584523369,
+				"top": []
+			},
+			"humidity": {
+				"value": 42,
+				"stamp": 1584523369,
+				"top": [
+					{
+						"time": 1584523369,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": -38.15,
+						"timelocal": 60,
+						"temperature": 18.43,
+						"pressure": 101784,
+						"humidity": 44.81,
+						"pm1": 11.5,
+						"pm25": 19,
+						"pm10": 23.5
+					},
+					{
+						"time": 1584523429,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": -37.48,
+						"timelocal": 120,
+						"temperature": 19.37,
+						"pressure": 101776,
+						"humidity": 42.82,
+						"pm1": 10,
+						"pm25": 18,
+						"pm10": 23.5
+					},
+					{
+						"time": 1584523489,
+						"latitude": 45.7537,
+						"longitude": 21.2257,
+						"altitude": -37.56,
+						"timelocal": 180,
+						"temperature": 20.19,
+						"pressure": 101777,
+						"humidity": 40.72,
+						"pm1": 10,
+						"pm25": 18,
+						"pm10": 23
+					}
+				]
+			}
+		}
+	},
+	{
+		"sensorId": "160000D3",
+		"obj": {
+			"pm25": {
+				"value": 24.8,
+				"stamp": 1584786771,
+				"top": [
+					{
+						"time": 1584813157,
+						"latitude": 46.75097658,
+						"longitude": 23.60732317,
+						"altitude": 438.06,
+						"timelocal": 180,
+						"temperature": 3.11,
+						"pressure": 96173,
+						"humidity": 77.57,
+						"pm1": 20.5,
+						"pm25": 36,
+						"pm10": 46
+					},
+					{
+						"time": 1584813220,
+						"latitude": 46.75097658,
+						"longitude": 23.60732317,
+						"altitude": 438.67,
+						"timelocal": 240,
+						"temperature": 3.78,
+						"pressure": 96166,
+						"humidity": 74.79,
+						"pm1": 21,
+						"pm25": 35,
+						"pm10": 45.5
+					},
+					{
+						"time": 1584813037,
+						"latitude": 46.75097658,
+						"longitude": 23.60732317,
+						"altitude": 437.1,
+						"timelocal": 60,
+						"temperature": 1.33,
+						"pressure": 96184,
+						"humidity": 86.33,
+						"pm1": 20,
+						"pm25": 34.5,
+						"pm10": 44.5
+					},
+					{
+						"time": 1584813097,
+						"latitude": 46.75097658,
+						"longitude": 23.60732317,
+						"altitude": 437.45,
+						"timelocal": 120,
+						"temperature": 2.34,
+						"pressure": 96180,
+						"humidity": 81.21,
+						"pm1": 19.5,
+						"pm25": 34.5,
+						"pm10": 45
+					},
+					{
+						"time": 1584813277,
+						"latitude": 46.75097658,
+						"longitude": 23.60732317,
+						"altitude": 438.14,
+						"timelocal": 300,
+						"temperature": 4.4,
+						"pressure": 96172,
+						"humidity": 73.16,
+						"pm1": 19,
+						"pm25": 32,
+						"pm10": 40.5
+					}
+				]
+			},
+			"temperature": {
+				"value": 8.37,
+				"stamp": 1584786771,
+				"top": [
+					{
+						"time": 1584788512,
+						"latitude": 46.75097658,
+						"longitude": 23.60732317,
+						"altitude": 441.88,
+						"timelocal": 240,
+						"temperature": 27.42,
+						"pressure": 96129,
+						"humidity": 33.73,
+						"pm1": 14,
+						"pm25": 24.5,
+						"pm10": 31
+					},
+					{
+						"time": 1584788452,
+						"latitude": 46.75097658,
+						"longitude": 23.60732317,
+						"altitude": 440.92,
+						"timelocal": 180,
+						"temperature": 27.26,
+						"pressure": 96140,
+						"humidity": 32.02,
+						"pm1": 13.5,
+						"pm25": 22,
+						"pm10": 28
+					},
+					{
+						"time": 1584788392,
+						"latitude": 46.75097658,
+						"longitude": 23.60732317,
+						"altitude": 441.01,
+						"timelocal": 120,
+						"temperature": 27.02,
+						"pressure": 96139,
+						"humidity": 32.04,
+						"pm1": 13,
+						"pm25": 21.5,
+						"pm10": 25.5
+					},
+					{
+						"time": 1584788332,
+						"latitude": 46.75097658,
+						"longitude": 23.60732317,
+						"altitude": 441.1,
+						"timelocal": 60,
+						"temperature": 26.77,
+						"pressure": 96138,
+						"humidity": 33.78,
+						"pm1": 15,
+						"pm25": 23.5,
+						"pm10": 29.5
+					},
+					{
+						"time": 1584787970,
+						"latitude": 46.75097658,
+						"longitude": 23.60732317,
+						"altitude": 439.01,
+						"timelocal": 1320,
+						"temperature": 26.61,
+						"pressure": 96162,
+						"humidity": 33.33,
+						"pm1": 10.5,
+						"pm25": 19,
+						"pm10": 24
+					}
+				]
+			},
+			"humidity": {
+				"value": 59.94,
+				"stamp": 1584786771,
+				"top": [
+					{
+						"time": 1584813037,
+						"latitude": 46.75097658,
+						"longitude": 23.60732317,
+						"altitude": 437.1,
+						"timelocal": 60,
+						"temperature": 1.33,
+						"pressure": 96184,
+						"humidity": 86.33,
+						"pm1": 20,
+						"pm25": 34.5,
+						"pm10": 44.5
+					},
+					{
+						"time": 1584813097,
+						"latitude": 46.75097658,
+						"longitude": 23.60732317,
+						"altitude": 437.45,
+						"timelocal": 120,
+						"temperature": 2.34,
+						"pressure": 96180,
+						"humidity": 81.21,
+						"pm1": 19.5,
+						"pm25": 34.5,
+						"pm10": 45
+					},
+					{
+						"time": 1584813157,
+						"latitude": 46.75097658,
+						"longitude": 23.60732317,
+						"altitude": 438.06,
+						"timelocal": 180,
+						"temperature": 3.11,
+						"pressure": 96173,
+						"humidity": 77.57,
+						"pm1": 20.5,
+						"pm25": 36,
+						"pm10": 46
+					},
+					{
+						"time": 1584813220,
+						"latitude": 46.75097658,
+						"longitude": 23.60732317,
+						"altitude": 438.67,
+						"timelocal": 240,
+						"temperature": 3.78,
+						"pressure": 96166,
+						"humidity": 74.79,
+						"pm1": 21,
+						"pm25": 35,
+						"pm10": 45.5
+					},
+					{
+						"time": 1584813277,
+						"latitude": 46.75097658,
+						"longitude": 23.60732317,
+						"altitude": 438.14,
+						"timelocal": 300,
+						"temperature": 4.4,
+						"pressure": 96172,
+						"humidity": 73.16,
+						"pm1": 19,
+						"pm25": 32,
+						"pm10": 40.5
+					}
+				]
+			}
+		}
+	},
+	{
+		"sensorId": "160000D3",
+		"obj": {
+			"pm25": {
+				"value": 10.68,
+				"stamp": 1584828277,
+				"top": []
+			},
+			"temperature": {
+				"value": 1.93,
+				"stamp": 1584828277,
+				"top": []
+			},
+			"humidity": {
+				"value": 64.54,
+				"stamp": 1584828277,
+				"top": [
+					{
+						"time": 1584836556,
+						"latitude": 46.75097658,
+						"longitude": 23.60732317,
+						"altitude": 426.77,
+						"timelocal": 23580,
+						"temperature": 1.5,
+						"pressure": 96303,
+						"humidity": 73.05,
+						"pm1": 4,
+						"pm25": 11.5,
+						"pm10": 13
+					},
+					{
+						"time": 1584836616,
+						"latitude": 46.75097658,
+						"longitude": 23.60732317,
+						"altitude": 427.47,
+						"timelocal": 23640,
+						"temperature": 1.57,
+						"pressure": 96295,
+						"humidity": 73.03,
+						"pm1": 4.5,
+						"pm25": 13,
+						"pm10": 14.5
+					},
+					{
+						"time": 1584836796,
+						"latitude": 46.75097658,
+						"longitude": 23.60732317,
+						"altitude": 427.55,
+						"timelocal": 23820,
+						"temperature": 1.6,
+						"pressure": 96294,
+						"humidity": 72.96,
+						"pm1": 5.5,
+						"pm25": 14.5,
+						"pm10": 16.5
+					},
+					{
+						"time": 1584848496,
+						"latitude": 46.75097658,
+						"longitude": 23.60732317,
+						"altitude": 417.93,
+						"timelocal": 35520,
+						"temperature": 0.5,
+						"pressure": 96405,
+						"humidity": 72.89,
+						"pm1": 2.5,
+						"pm25": 8.5,
+						"pm10": 9
+					},
+					{
+						"time": 1584836736,
+						"latitude": 46.75097658,
+						"longitude": 23.60732317,
+						"altitude": 427.21,
+						"timelocal": 23760,
+						"temperature": 1.63,
+						"pressure": 96298,
+						"humidity": 72.88,
+						"pm1": 4.5,
+						"pm25": 13.5,
+						"pm10": 14.5
+					}
+				]
+			}
+		}
+	}
+]

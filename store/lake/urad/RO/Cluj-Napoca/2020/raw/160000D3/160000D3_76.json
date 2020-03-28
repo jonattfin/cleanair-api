@@ -1,0 +1,28 @@
+[
+	{
+		"time": 1584476249,
+		"latitude": 45.7537,
+		"longitude": 21.2257,
+		"altitude": -24.62,
+		"timelocal": 60,
+		"temperature": 19.04,
+		"pressure": 101621,
+		"humidity": 38.11,
+		"pm1": 20.5,
+		"pm25": 41.5,
+		"pm10": 50
+	},
+	{
+		"time": 1584476309,
+		"latitude": 45.7537,
+		"longitude": 21.2257,
+		"altitude": -24.28,
+		"timelocal": 120,
+		"temperature": 19.57,
+		"pressure": 101617,
+		"humidity": 37.41,
+		"pm1": 19.5,
+		"pm25": 39.5,
+		"pm10": 46.5
+	}
+]
