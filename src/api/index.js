@@ -12,7 +12,7 @@ class Api {
   }
 
   async getYearData(params) {
-    const uradData = await this.mockInner.getYearData(params);
+    const uradData = []; //await this.mockInner.getYearData(params);
     const pulseData = await this.realInner.getYearData(params);
 
     return [].concat(uradData, transformPulse(pulseData));
